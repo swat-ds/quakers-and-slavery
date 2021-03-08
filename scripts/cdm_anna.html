@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+<script language="javascript" src="list.js"></script>
+</head>
+
+<body onLoad="fillCategory();">
+
+
+<form name="drop_list" method="get" action="http://triptych.brynmawr.edu/cdm4/results.php" target="_blank">
+
+
+<input type="hidden" name="CISOOP1" value="exact">
+<input type="hidden" name="CISORESTMP" value="results.php">
+<input type="hidden" name="CISOVIEWTMP" value="item_viewer.php">
+<input type="hidden" name="CISOMODE" value="grid">
+<input type="hidden" name="CISOGRID" value="thumbnail,A,1;title,A,1;altern,A,0;creato,200,0;none,A,0;20;relevancy,none,none,none,none">
+<input type="hidden" name="CISOBIB" value="title,A,1,N;altern,A,0,N;creato,200,0,N;none,A,0,N;none,A,0,N;20;relevancy,none,none,none,none">
+<input type="hidden" name="CISOTHUMB" value="20 (4x5);relevancy,none,none,none,none">
+<input type="hidden" name="CISOTITLE" value="20;title,none,none,none,none">
+<input type="hidden" name="CISOHIERA" value="20;altern,title,none,none,none">
+<input type="hidden" name="CISOSUPPRESS" value="1">
+
+
+<select name="Category" onChange="SelectSubCat();" >
+<option value="">Select Category</option>
+</select>&nbsp;
+
+
+<select id="SubCat" name="CISOPARM">
+
+
+
+<option value="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</option>
+
+
+</select>
+<input type="submit" value="go" class="button">
+</form>
+
+</body>
+</html>
+
+
+<!-- make sure the javascript file replicates this syntax.
+    
+<option value="/HC_QuakSlav :CISOSEARCHALL:Benezet">Benezet, Anthony, 1713-1784</option>
+<option value="/HC_QuakSlav :CISOSEARCHALL:Burritt">Burritt, Elihu, 1810-1879</option>
+<option value="/HC_QuakSlav :CISOSEARCHALL:Clarkson">Clarkson, Thomas, 1760-1846</option>
+<option value="/HC_QuakSlav :CISOSEARCHALL:American Anti-Slavery Society">American Anti-Slavery Society</option>
+<option value="/HC_QuakSlav :CISOSEARCHALL:American Colonization Society">merican Colonization Society and its auxiliaries (</option>
+<option value="/HC_QuakSlav :subjec:Education">Education</option>
+<option value="/HC_QuakSlav :subjec:Colonization">Colonization</option>
+<option value="/HC_QuakSlav :subjec:Free African Americans">Free African Americans</option>
+
+-->
+
+
