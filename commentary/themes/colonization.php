@@ -56,7 +56,7 @@
  * @access public
  * @author Richard Baskett <rick@baskettcase.com>
  * @category directory structure
- * @copyright Copyright © 2004, Baskettcase Web Development
+ * @copyright Copyright ï¿½ 2004, Baskettcase Web Development
  * @example example.php
  * @link http://www.baskettcase.com/classes/breadcrumb/
  * @package breadcrumb
@@ -549,7 +549,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
      <!-- InstanceEndEditable --></div></div>
           <div id="content"> 
     <div id="pagecontent"> 
-  <!-- InstanceBeginEditable name="pagecontent" -->  <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,497" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=8024&amp;action=2&amp;DMSCALE=21&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=125&amp;DMY=435&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Notes on Abolition" /></a>
+  <!-- InstanceBeginEditable name="pagecontent" -->  <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,497" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="thumbs/qs-thumb-8024" border="0" alt="Notes on Abolition" /></a>
     <h1><a name="essay"></a>Sheppard and Colonization</h1>
     <h3>By Bruce Dorsey</h3>
     <p><i>Swarthmore College</i></p>
@@ -585,10 +585,10 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
     <table border="0" cellpadding="0" cellspacing="1">
       <tr>
           
-     <td width="130"><div align="left"><a title="Moses Sheppard Correspondence" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,10302" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=10302&amp;action=2&amp;DMSCALE=14&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=250&amp;DMY=212&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Correspondence"  /></a>  </div></td>
+     <td width="130"><div align="left"><a title="Moses Sheppard Correspondence" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,10302" target="_blank"><img src="thumbs/qs-thumb-10302" border="0" alt="Correspondence"  /></a>  </div></td>
        <td width="70"></td>
 
-       <td width="130"><div align="left"><a title="Moses Sheppard Correspondence" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11012" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11012&amp;action=2&amp;DMSCALE=11&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=70&amp;DMY=175&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Colonization Papers"  /></a>  </div></td>
+       <td width="130"><div align="left"><a title="Moses Sheppard Correspondence" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11012" target="_blank"><img src="thumbs/qs-thumb-11012" border="0" alt="Colonization Papers"  /></a>  </div></td>
        <td width="70"></td>
     
     

@@ -56,7 +56,7 @@
  * @access public
  * @author Richard Baskett <rick@baskettcase.com>
  * @category directory structure
- * @copyright Copyright © 2004, Baskettcase Web Development
+ * @copyright Copyright ï¿½ 2004, Baskettcase Web Development
  * @example example.php
  * @link http://www.baskettcase.com/classes/breadcrumb/
  * @package breadcrumb
@@ -555,7 +555,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
    <!-- InstanceEndEditable --></div></div>
           <div id="content"> 
     <div id="pagecontent"> 
-  <!-- InstanceBeginEditable name="pagecontent" --><a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,5837" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=5837&amp;action=2&amp;DMSCALE=27&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=118&amp;DMY=110&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Protest, 1688"/></a>
+  <!-- InstanceBeginEditable name="pagecontent" --><a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,5837" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="thumbs/qs-thumb-5837" alt="Protest, 1688"/></a>
     <h1><a name="essay"></a>Early Protests</h1>
     <h3> By Anne Moore Mueller</h3>
     <p><i>Drexel University, Class of 2008. Quakers &amp; Slavery Digitization Project Intern</i></p>
@@ -574,7 +574,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
 		  <p align="right"><i>Germantown Protest, 1688</i></p>
 		  <div align="right"><i>The first organized protest against slavery in the Americas was composed over 300 hundred years ago in 1688 by four Germantown Quakers. The language and spelling used in this early protest reflect the German descent of its' signers. Fading has also made the document difficult to read. This image has been digitally enhanced to aid reading.   </i>
 		    </div></td>
-          <td><a title="Germantown Protest" class="body_con" href=" http://triptych.brynmawr.edu/u?/HC_QuakSlav,5837" target="_blank"><img style="padding:10px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=5837&amp;action=2&amp;DMSCALE=11&amp;DMWIDTH=300&amp;DMHEIGHT=200&amp;DMX=1&amp;DMY=1&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Protest, 1688"/></a></td>
+          <td><a title="Germantown Protest" class="body_con" href=" http://triptych.brynmawr.edu/u?/HC_QuakSlav,5837" target="_blank"><img style="padding:10px" src="thumbs/qs-thumb-5837" border="0" alt="Protest, 1688"/></a></td>
   </tr>
       </table>    
 
@@ -607,7 +607,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
 		  <p align="right"><i> Friends Meeting House, Merion </i></p>
 		  <div align="right" ><i>This image depicts a Quaker couple facing the Merion Meeting House. Drawn by Hugh Reinagle, engraved by J.W.Steel and published by C.G. Childs Engraver 80 Walnut Street Philadelphia in 1830. </i>
 		    </div></td>
-          <td><a title="Merion Meeting House" class="body_con" href=" http://triptych.brynmawr.edu/u?/HC_QuakSlav,11695" target="_blank"><img style="padding:10px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11695&amp;action=2&amp;DMSCALE=15&amp;DMWIDTH=300&amp;DMHEIGHT=200&amp;DMX=135&amp;DMY=105&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Merion Meeting House"/></a></td>
+          <td><a title="Merion Meeting House" class="body_con" href=" http://triptych.brynmawr.edu/u?/HC_QuakSlav,11695" target="_blank"><img style="padding:10px" src="thumbs/qs-thumb-11695" border="0" alt="Merion Meeting House"/></a></td>
   </tr>
       </table>    
   <br />
@@ -648,16 +648,16 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
     <table border="0" cellpadding="0" cellspacing="1">
       <tr>
            
-      <td width="130"><div align="left"><a title="Germantown Protest, 1688" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,5837" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=5837&amp;action=2&amp;DMSCALE=27&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=118&amp;DMY=110&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Protest, 1688"  /></a>  </div></td>
+      <td width="130"><div align="left"><a title="Germantown Protest, 1688" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,5837" target="_blank"><img src="thumbs/qs-thumb-5837" border="0" alt="Protest, 1688"  /></a>  </div></td>
        <td width="70"></td>
       
-       <td width="130"><div align="left"><a title="Philadelphia Yearly Meeting Minute, 1688" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11723" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11723&amp;action=2&amp;DMSCALE=30&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=185&amp;DMY=1&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="PYM Minute, 1688"  /></a>  </div></td>
+       <td width="130"><div align="left"><a title="Philadelphia Yearly Meeting Minute, 1688" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11723" target="_blank"><img src="thumbs/qs-thumb-11723" border="0" alt="PYM Minute, 1688"  /></a>  </div></td>
         <td width="70"></td>
     
-    <td width="130"><div align="left"><a title="Merion Protest, 1696" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,5839" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=5839&amp;action=2&amp;DMSCALE=15&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=40&amp;DMY=30&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Merion Protest, 1696"  /></a>  </div></td>
+    <td width="130"><div align="left"><a title="Merion Protest, 1696" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,5839" target="_blank"><img src="thumbs/qs-thumb-5839" border="0" alt="Merion Protest, 1696"  /></a>  </div></td>
      <td width="70"></td>
      
-    <td width="130"><div align="left"><a title="Philadelphia Yearly Meeting Minute, 1696" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11713" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11713&amp;action=2&amp;DMSCALE=30&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=150&amp;DMY=150&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="PYM Minute, 1696"  /></a>  </div></td>     
+    <td width="130"><div align="left"><a title="Philadelphia Yearly Meeting Minute, 1696" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11713" target="_blank"><img src="thumbs/qs-thumb-11713" border="0" alt="PYM Minute, 1696"  /></a>  </div></td>     
     
     
     

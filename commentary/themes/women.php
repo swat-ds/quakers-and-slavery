@@ -56,7 +56,7 @@
  * @access public
  * @author Richard Baskett <rick@baskettcase.com>
  * @category directory structure
- * @copyright Copyright © 2004, Baskettcase Web Development
+ * @copyright Copyright ï¿½ 2004, Baskettcase Web Development
  * @example example.php
  * @link http://www.baskettcase.com/classes/breadcrumb/
  * @package breadcrumb
@@ -553,7 +553,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
     <div id="pagecontent"> 
   <!-- InstanceBeginEditable name="pagecontent" -->  
  
-   <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11173" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11173&amp;action=2&amp;DMSCALE=27&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=0&amp;DMY=2&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Women's Rights Medal"  /></a>
+   <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11173" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="thumbs/qs-thumb-11173" border="0" alt="Women's Rights Medal"  /></a>
  
     <h1><a name="essay"></a>Anti-Slavery &amp; Women's Rights</h1>
     <h3> By Judith Wellman</h3>
@@ -583,14 +583,14 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
     
     <table border="0" cellpadding="0" cellspacing="1">
       <tr>
-       <td width="130"><div align="left"><a title="Women's Rights Anti-Slavery Medal" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11173" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11173&amp;action=2&amp;DMSCALE=27&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=0&amp;DMY=2&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Women's Rights Medal"  /></a>  </div></td>
+       <td width="130"><div align="left"><a title="Women's Rights Anti-Slavery Medal" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11173" target="_blank"><img src="thumbs/qs-thumb-11173" border="0" alt="Women's Rights Medal"  /></a>  </div></td>
         <td width="70"></td>
-          <td width="130"><div align="left"><a title="Letter to Angelina &amp; Sarah Moore Grimke" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,3689" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=3689&amp;action=2&amp;DMSCALE=18&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=40&amp;DMY=68&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Letter to Angelina &amp; Sarah Moore Grimke"  /></a>  </div></td>
+          <td width="130"><div align="left"><a title="Letter to Angelina &amp; Sarah Moore Grimke" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,3689" target="_blank"><img src="thumbs/qs-thumb-3689" border="0" alt="Letter to Angelina &amp; Sarah Moore Grimke"  /></a>  </div></td>
            <td width="70"></td>
-            <td width="130"><div align="left"><a title="Letter to Adeline Roberts from Lucretia Mott, 1851" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,3706" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=3706&amp;action=2&amp;DMSCALE=16&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=24&amp;DMY=68&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Letter to Adeline Roberts from Lucretia Mott, 1851"  /></a>  </div></td>
+            <td width="130"><div align="left"><a title="Letter to Adeline Roberts from Lucretia Mott, 1851" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,3706" target="_blank"><img src="thumbs/qs-thumb-3706" border="0" alt="Letter to Adeline Roberts from Lucretia Mott, 1851"  /></a>  </div></td>
              <td width="70"></td>
        
-    <td width="130"><div align="left"><a title="Progressive Friends" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,1079" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=1079&amp;action=2&amp;DMSCALE=12&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=90&amp;DMY=450&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Progressive Friends"  /></a>  </div></td>
+    <td width="130"><div align="left"><a title="Progressive Friends" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,1079" target="_blank"><img src="thumbs/qs-thumb-1079" border="0" alt="Progressive Friends"  /></a>  </div></td>
              
         
    </tr>

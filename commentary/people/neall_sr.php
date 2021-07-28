@@ -56,7 +56,7 @@
  * @access public
  * @author Richard Baskett <rick@baskettcase.com>
  * @category directory structure
- * @copyright Copyright © 2004, Baskettcase Web Development
+ * @copyright Copyright ï¿½ 2004, Baskettcase Web Development
  * @example example.php
  * @link http://www.baskettcase.com/classes/breadcrumb/
  * @package breadcrumb
@@ -561,7 +561,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
           <div id="content"> 
     <div id="pagecontent"> 
   <!-- InstanceBeginEditable name="pagecontent" -->
-    <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11697" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11697&amp;action=2&amp;DMSCALE=10&amp;DMWIDTH=150&amp;DMHEIGHT=150&amp;DMX=15&amp;DMY=25&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" title="Daniel Neall Sr." alt="Daniel Neall Sr."/></a>
+    <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11697" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="thumbs/qs-thumb-11697" title="Daniel Neall Sr." alt="Daniel Neall Sr."/></a>
         <h1>Daniel Neall, Sr.</h1>
           <h3>By Celia Caust-Ellenbogen</h3>
           <p><i>Swarthmore College, Class of 2009. Quakers &amp; Slavery Digitization Project Intern</i></p>
@@ -637,13 +637,13 @@ Who, in the poor, their Master crucified,<br/>
    <br />
     <table border="0" cellpadding="0" cellspacing="1">
       <tr>
-        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,8795" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=8832&amp;action=2&amp;DMSCALE=20&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=430&amp;DMY=780&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" title="Daniel Neall Jr. Papers" alt="Daniel Neall Jr. Papers" /></a></div></td>
+        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,8795" target="_blank"><img src="thumbs/qs-thumb-8832" title="Daniel Neall Jr. Papers" alt="Daniel Neall Jr. Papers" /></a></div></td>
             <td width="70"></td>
-        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4127" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=4149&amp;action=2&amp;DMSCALE=10&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=165&amp;DMY=123&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" title="Pennsylvania Hall, Board of Managers" alt="Pennsylvania Hall, Board of Managers" /></a></div></td>
+        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4127" target="_blank"><img src="thumbs/qs-thumb-4149" title="Pennsylvania Hall, Board of Managers" alt="Pennsylvania Hall, Board of Managers" /></a></div></td>
             <td width="70"></td>
-        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4551" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=4551&amp;action=2&amp;DMSCALE=14&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=180&amp;DMY=20&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" title="Pennsylvania Hall, Legal &amp; Financial" alt="Pennsylvania Hall, Legal &amp; Financial" /></a></div></td>
+        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4551" target="_blank"><img src="thumbs/qs-thumb-4551" title="Pennsylvania Hall, Legal &amp; Financial" alt="Pennsylvania Hall, Legal &amp; Financial" /></a></div></td>
             <td width="70"></td>
-        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4594" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=4594&amp;action=2&amp;DMSCALE=15&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=15&amp;DMY=120&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" title="Pennsylvania Hall Retrospectives" alt="Pennsylvania Hall Retrospectives" /></a></div></td>
+        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4594" target="_blank"><img src="thumbs/qs-thumb-4594" title="Pennsylvania Hall Retrospectives" alt="Pennsylvania Hall Retrospectives" /></a></div></td>
      
       </tr>
       <tr>

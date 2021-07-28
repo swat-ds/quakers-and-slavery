@@ -56,7 +56,7 @@
  * @access public
  * @author Richard Baskett <rick@baskettcase.com>
  * @category directory structure
- * @copyright Copyright © 2004, Baskettcase Web Development
+ * @copyright Copyright ï¿½ 2004, Baskettcase Web Development
  * @example example.php
  * @link http://www.baskettcase.com/classes/breadcrumb/
  * @package breadcrumb
@@ -564,7 +564,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
           <div id="content"> 
     <div id="pagecontent"> 
   <!-- InstanceBeginEditable name="pagecontent" -->  
-  <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11137" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11137&amp;action=2&amp;DMSCALE=3&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=8&amp;DMY=0&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" title="title" alt="image of..."/></a>
+  <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11137" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="thumbs/qs-thumb-11137" title="title" alt="image of..."/></a>
    <h1><a name="essay"></a>Page Title</h1>
     <h3> By Authors Name</h3>
     <p><i>Author affiliation</i></p>
@@ -595,13 +595,13 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
    
     <table border="0" cellpadding="0" cellspacing="1">
       <tr>
-           <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11137" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11137&amp;action=2&amp;DMSCALE=3&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=8&amp;DMY=0&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" title="Our Countrymen in Chains!" alt="Our Countrymen in Chains!" /></a></div></td>
+           <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11137" target="_blank"><img src="thumbs/qs-thumb-11137" title="Our Countrymen in Chains!" alt="Our Countrymen in Chains!" /></a></div></td>
            <td width="70"></td>
-    <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11137" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11137&amp;action=2&amp;DMSCALE=3&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=8&amp;DMY=0&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" title="Our Countrymen in Chains!" alt="Our Countrymen in Chains!" /></a></div></td>
+    <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11137" target="_blank"><img src="thumbs/qs-thumb-11137" title="Our Countrymen in Chains!" alt="Our Countrymen in Chains!" /></a></div></td>
            <td width="70"></td>
-              <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11137" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11137&amp;action=2&amp;DMSCALE=3&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=8&amp;DMY=0&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" title="Our Countrymen in Chains!" alt="Our Countrymen in Chains!" /></a></div></td>
+              <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11137" target="_blank"><img src="thumbs/qs-thumb-11137" title="Our Countrymen in Chains!" alt="Our Countrymen in Chains!" /></a></div></td>
            <td width="70"></td>
-              <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11137" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11137&amp;action=2&amp;DMSCALE=3&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=8&amp;DMY=0&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" title="Our Countrymen in Chains!" alt="Our Countrymen in Chains!" /></a></div></td>
+              <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11137" target="_blank"><img src="thumbs/qs-thumb-11137" title="Our Countrymen in Chains!" alt="Our Countrymen in Chains!" /></a></div></td>
         
        
            

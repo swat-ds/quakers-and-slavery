@@ -56,7 +56,7 @@
  * @access public
  * @author Richard Baskett <rick@baskettcase.com>
  * @category directory structure
- * @copyright Copyright © 2004, Baskettcase Web Development
+ * @copyright Copyright ï¿½ 2004, Baskettcase Web Development
  * @example example.php
  * @link http://www.baskettcase.com/classes/breadcrumb/
  * @package breadcrumb
@@ -557,7 +557,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
           <div id="content"> 
     <div id="pagecontent"> 
   <!-- InstanceBeginEditable name="pagecontent" -->
-    <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,395" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=395&amp;action=2&amp;DMSCALE=11&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=90&amp;DMY=60&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Benjamin Lay"/></a>
+    <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,395" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="thumbs/qs-thumb-395" alt="Benjamin Lay"/></a>
     
     <h1><a name="essay"></a>Benjamin Lay</h1>
     <p></p>
@@ -579,7 +579,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
           <i>&quot;Biographical Anecdotes&quot;</i> by Benjamin Rush . The Annual Monitor, 1813. 
 
 		    </div></td>
-          <td><a title="Benjamin Lay" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11113" target="_blank"> <img style="padding:10px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11113&amp;action=2&amp;DMSCALE=27&amp;DMWIDTH=300&amp;DMHEIGHT=200&amp;DMX=0&amp;DMY=50&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Benjamin Lay"/></a></td>
+          <td><a title="Benjamin Lay" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11113" target="_blank"> <img style="padding:10px" src="thumbs/qs-thumb-11113" alt="Benjamin Lay"/></a></td>
           
   </tr>
       </table>    
@@ -611,16 +611,16 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
    
     <table border="0" cellpadding="0" cellspacing="1">
       <tr>
-        <td width="130"><div align="left"><a title="All Slave-Keepers That keep the Innocent in Bondage, Apostates..." class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,6742" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=6742&amp;action=2&amp;DMSCALE=25&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=50&amp;DMY=0&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="All Slave-Keepers..." /></a> </div></td>
+        <td width="130"><div align="left"><a title="All Slave-Keepers That keep the Innocent in Bondage, Apostates..." class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,6742" target="_blank"><img src="thumbs/qs-thumb-6742" alt="All Slave-Keepers..." /></a> </div></td>
        <td width="70"></td>
          
-        <td width="130"><div align="left"><a title="Minute entry in which PYM denounces Benjamin Lay's book" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,938" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=938&amp;action=2&amp;DMSCALE=55&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=480&amp;DMY=25&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Denouncement" /></a> </div></td>
+        <td width="130"><div align="left"><a title="Minute entry in which PYM denounces Benjamin Lay's book" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,938" target="_blank"><img src="thumbs/qs-thumb-938" alt="Denouncement" /></a> </div></td>
          <td width="70"></td>
         
-        <td width="130"><div align="left"><a title="Benjamin Lay is Disowned" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,393" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=393&amp;action=2&amp;DMSCALE=25&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=350&amp;DMY=408&amp;DMTEXT=&amp;REC=6&amp;DMTHUMB=1&amp;DMROTATE=0" alt="" /></a> </div></td>
+        <td width="130"><div align="left"><a title="Benjamin Lay is Disowned" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,393" target="_blank"><img src="thumbs/qs-thumb-393" alt="" /></a> </div></td>
          <td width="70"></td>
         
-          <td width="130"><div align="left"><a title="Biographical sketch of Benjamin Lay" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,3673" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=3673&amp;action=2&amp;DMSCALE=20&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=40&amp;DMY=438&amp;DMTEXT=&amp;REC=6&amp;DMTHUMB=1&amp;DMROTATE=0" alt="" /></a> </div></td>
+          <td width="130"><div align="left"><a title="Biographical sketch of Benjamin Lay" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,3673" target="_blank"><img src="thumbs/qs-thumb-3673" alt="" /></a> </div></td>
 </tr>
     <tr>
        <td width="130" valign="top"><div align="left"><i>All Slave-Keepers that Keep the Innocent in Bondage</i></div></td>

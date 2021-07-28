@@ -51,7 +51,7 @@
  * @access public
  * @author Richard Baskett <rick@baskettcase.com>
  * @category directory structure
- * @copyright Copyright © 2004, Baskettcase Web Development
+ * @copyright Copyright ï¿½ 2004, Baskettcase Web Development
  * @example example.php
  * @link http://www.baskettcase.com/classes/breadcrumb/
  * @package breadcrumb
@@ -592,7 +592,7 @@ function JumpToIt(list) {
 
    <table border="0" cellpadding="20px" cellspacing="10px">
 <tr><td></td></tr>
-    <tr>    <td valign="top"><a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,497" target="_blank"> <img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=497&amp;action=2&amp;DMSCALE=16&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=15&amp;DMY=2&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Some Considerations..." title="Some Considerations..." /></a></td>
+    <tr>    <td valign="top"><a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,497" target="_blank"> <img src="thumbs/qs-thumb-497" border="0" alt="Some Considerations..." title="Some Considerations..." /></a></td>
       <td valign="top"> <h3><a name="1754"></a>1754&nbsp;&nbsp; <a href="http://triptych.brynmawr.edu/cdm4/results.php?CISORESTMP=results.php&amp;CISOVIEWTMP=item_viewer.php&amp;CISOMODE=grid&amp;CISOGRID=thumbnail,A,1;title,A,1;altern,A,0;creato,200,0;none,A,0;20;relevancy,none,none,none,none&amp;CISOBIB=title,A,1,N;altern,A,0,N;creato,200,0,N;none,A,0,N;none,A,0,N;20;relevancy,none,none,none,none&amp;CISOTHUMB=20%20(4x5);relevancy,none,none,none,none&amp;CISOTITLE=20;title,none,none,none,none&amp;CISOHIERA=20;altern,title,none,none,none&amp;CISOSUPPRESS=1&amp;CISOTYPE=link&amp;CISOOP1=exact&amp;CISOFIELD1=title&amp;CISOBOX1=&amp;CISOOP2=exact&amp;CISOFIELD2=altern&amp;CISOBOX2=&amp;CISOOP3=exact&amp;CISOFIELD3=creato&amp;CISOBOX3=&amp;CISOOP4=exact&amp;CISOFIELD4=CISOSEARCHALL&amp;CISOBOX4=1754&amp;c=exact&amp;CISOROOT=%2FHC_QuakSlav" target="_blank"> <img src="../../images/primarysources_dc.png" height="25" width="25" border="0" alt="Primary Sources Icon" title="Primary Sources" /></a>&nbsp;&nbsp;<a href="1754.php"><img src="../../images/commentary_dc.png" height="25" width="25" border="0" alt="Commentary Icon" title="Scholarly Commentary" /></a></h3>  
       <p>In 1754 the Society of Friends began to take a clear stance on the issue of slavery. The Philadelphia Yearly Meeting approved the publication of John Woolman's essay against slavery <i>&quot;Some Considerations on the Keeping of Negroes&quot;</i>. Woolman's essay protests slavery on religious grounds. Later in the same year Philadelphia Yearly Meeting wrote AN EPISTLE of Caution and Advice, to the Quarterly Meetings urging against the buying and keeping of slaves. </p>
     <br />
@@ -603,7 +603,7 @@ function JumpToIt(list) {
    
  
 <!--
-      <tr> <td valign="top"><a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11157" target="_blank"> <img class="floatleft" align="left" height="130" width="130" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11157&amp;action=2&amp;DMSCALE=11&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=30&amp;DMY=100&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt=""/> </a>
+      <tr> <td valign="top"><a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11157" target="_blank"> <img class="floatleft" align="left" height="130" width="130" src="thumbs/qs-thumb-11157" alt=""/> </a>
       </td>
       
       
@@ -619,7 +619,7 @@ function JumpToIt(list) {
 
  <!--
    
-    <tr>    <td valign="top"><a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11173" target="_blank"> <img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11173&amp;action=2&amp;DMSCALE=27&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=0&amp;DMY=2&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Women's Rights Medal" title="Women's Rights Medal" /></a></td>
+    <tr>    <td valign="top"><a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11173" target="_blank"> <img src="thumbs/qs-thumb-11173" border="0" alt="Women's Rights Medal" title="Women's Rights Medal" /></a></td>
       <td valign="top"> <h3><a name="Women"></a>Anti-Slavery &amp; Women's Rights&nbsp;&nbsp; 
       <a href="http://triptych.brynmawr.edu/cdm4/results.php?CISORESTMP=results.php&amp;CISOVIEWTMP=item_viewer.php&amp;CISOMODE=grid&amp;CISOGRID=thumbnail,A,1;title,A,1;altern,A,0;creato,200,0;none,A,0;20;relevancy,none,none,none,none&amp;CISOBIB=title,A,1,N;altern,A,0,N;creato,200,0,N;none,A,0,N;none,A,0,N;20;relevancy,none,none,none,none&amp;CISOTHUMB=20%20(4x5);relevancy,none,none,none,none&amp;CISOTITLE=20;title,none,none,none,none&amp;CISOHIERA=20;altern,title,none,none,none&amp;CISOSUPPRESS=0&amp;CISOTYPE=link&amp;CISOOP1=exact&amp;CISOFIELD1=title&amp;CISOBOX1=&amp;CISOOP2=exact&amp;CISOFIELD2=altern&amp;CISOBOX2=&amp;CISOOP3=exact&amp;CISOFIELD3=creato&amp;CISOBOX3=&amp;CISOOP4=exact&amp;CISOFIELD4=CISOSEARCHALL&amp;CISOBOX4=Women%27s+Rights&amp;c=exact&amp;CISOROOT=%2FHC_QuakSlav" target="_blank"> <img src="../../images/primarysources_dc.png" height="25" width="25" border="0" alt="Primary Sources Icon" title="Primary Sources" /></a>&nbsp;&nbsp;<a href="women.php"><img src="../../images/commentary_dc.png" height="25" width="25" border="0" alt="Commentary Icon" title="Scholarly Commentary" /></a></h3>  
       <p></p>
@@ -630,7 +630,7 @@ function JumpToIt(list) {
    
  -->
    
-    <tr> <td valign="top"><a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,5837" target="_blank"> <img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=5837&amp;action=2&amp;DMSCALE=27&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=118&amp;DMY=110&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Germantown Protest" /></a></td>
+    <tr> <td valign="top"><a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,5837" target="_blank"> <img src="thumbs/qs-thumb-5837" alt="Germantown Protest" /></a></td>
       <td valign="top"> <h3><a name="earlyprotests"></a>Early Protests&nbsp;&nbsp; <a href="http://triptych.brynmawr.edu/cdm4/results.php?CISORESTMP=results.php&amp;CISOVIEWTMP=item_viewer.php&amp;CISOMODE=grid&amp;CISOGRID=thumbnail,A,1;title,A,1;altern,A,0;creato,200,0;none,A,0;20;relevancy,none,none,none,none&amp;CISOBIB=title,A,1,N;altern,A,0,N;creato,200,0,N;none,A,0,N;none,A,0,N;20;relevancy,none,none,none,none&amp;CISOTHUMB=20%20(4x5);relevancy,none,none,none,none&amp;CISOTITLE=20;title,none,none,none,none&amp;CISOHIERA=20;altern,title,none,none,none&amp;CISOSUPPRESS=1&amp;CISOTYPE=link&amp;CISOOP1=all&amp;CISOFIELD1=geogra&amp;CISOBOX1=&amp;CISOOP2=all&amp;CISOFIELD2=altern&amp;CISOBOX2=&amp;CISOOP3=all&amp;CISOFIELD3=creato&amp;CISOBOX3=&amp;CISOOP4=all&amp;CISOFIELD4=CISOSEARCHALL&amp;CISOBOX4=protest&amp;c=all&amp;CISOROOT=%2FHC_QuakSlav" target="_blank"> <img src="../../images/primarysources_dc.png" height="25" width="25" border="0" alt="Primary Sources Icon" title="Primary Sources" /></a>&nbsp;&nbsp;<a href="earlyprotests.php"><img src="../../images/commentary_dc.png" height="25" width="25" border="0" alt="Commentary Icon" title="Scholarly Commentary" /></a></h3>  
       <p>Some members of the Society of Friends in Philadelphia took an anti-slavery stance as early as the late 17th century. Their position on the issue of slavery was written in protests and presented to various meetings up the hierarchical chain finally reaching the Philadelphia Yearly Meeting. Learn more about these early protests and the Philadelphia Yearly Meeting's response.  </p>
     <br />
@@ -642,7 +642,7 @@ function JumpToIt(list) {
    
     
 <!--
-  <tr>    <td valign="top"><a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,986" target="_blank"> <img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=986&amp;action=2&amp;DMSCALE=14&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=45&amp;DMY=55&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Free Produce" title="Free Produce" /></a></td>
+  <tr>    <td valign="top"><a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,986" target="_blank"> <img src="thumbs/qs-thumb-986" alt="Free Produce" title="Free Produce" /></a></td>
       <td valign="top"> <h3><a name="produce.php"></a>The Free Produce Movement&nbsp;&nbsp; <a href="http://triptych.brynmawr.edu/cdm4/results.php?CISORESTMP=results.php&amp;CISOVIEWTMP=item_viewer.php&amp;CISOMODE=grid&amp;CISOGRID=thumbnail,A,1;title,A,1;altern,A,0;creato,200,0;none,A,0;20;relevancy,none,none,none,none&amp;CISOBIB=title,A,1,N;altern,A,0,N;creato,200,0,N;none,A,0,N;none,A,0,N;20;relevancy,none,none,none,none&amp;CISOTHUMB=20%20(4x5);relevancy,none,none,none,none&amp;CISOTITLE=20;title,none,none,none,none&amp;CISOHIERA=20;altern,title,none,none,none&amp;CISOSUPPRESS=1&amp;CISOTYPE=link&amp;CISOOP1=exact&amp;CISOFIELD1=title&amp;CISOBOX1=&amp;CISOOP2=exact&amp;CISOFIELD2=altern&amp;CISOBOX2=&amp;CISOOP3=exact&amp;CISOFIELD3=creato&amp;CISOBOX3=&amp;CISOOP4=exact&amp;CISOFIELD4=CISOSEARCHALL&amp;CISOBOX4=Free+Produce&amp;c=exact&amp;CISOROOT=%2FHC_QuakSlav" target="_blank"> <img src="../../images/primarysources_dc.png" height="25" width="25" border="0" alt="Primary Sources Icon" title="Primary Sources" /></a>&nbsp;&nbsp;<a href="free_produce.php"><img src="../../images/commentary_dc.png" height="25" width="25" border="0" alt="Commentary Icon" title="Scholarly Commentary" /></a></h3>  
       <p>The free-produce movement was a boycott against goods produced by slave labor. In 1826, Friends in Wilmington, Delaware, drew up a charter for a formal free-produce organization and Baltimore Quaker Benjamin Lundy opened a store that sold only goods obtained by labor from free people. In 1827, the movement expanded with the formation in Philadelphia, Pennsylvania of the &quot;Free Produce Society&quot; founded by Thomas M'Clintock and others. </p>
     <br />
@@ -654,7 +654,7 @@ function JumpToIt(list) {
 
 
 <!--
-  <tr>    <td valign="top"><a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,1069" target="_blank"> <img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=1069&amp;action=2&amp;DMSCALE=5&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=40&amp;DMY=70&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Progressive Friends" /></a></td>
+  <tr>    <td valign="top"><a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,1069" target="_blank"> <img src="thumbs/qs-thumb-1069" alt="Progressive Friends" /></a></td>
       <td valign="top"> <h3><a name="progressive"></a>Progressive Friends&nbsp;&nbsp; <a href="http://triptych.brynmawr.edu/cdm4/results.php?CISORESTMP=results.php&amp;CISOVIEWTMP=item_viewer.php&amp;CISOMODE=grid&amp;CISOGRID=thumbnail,A,1;title,A,1;altern,A,0;creato,200,0;none,A,0;20;relevancy,none,none,none,none&amp;CISOBIB=title,A,1,N;altern,A,0,N;creato,200,0,N;none,A,0,N;none,A,0,N;20;relevancy,none,none,none,none&amp;CISOTHUMB=20%20(4x5);relevancy,none,none,none,none&amp;CISOTITLE=20;title,none,none,none,none&amp;CISOHIERA=20;altern,title,none,none,none&amp;CISOSUPPRESS=1&amp;CISOTYPE=link&amp;CISOOP1=exact&amp;CISOFIELD1=title&amp;CISOBOX1=&amp;CISOOP2=exact&amp;CISOFIELD2=altern&amp;CISOBOX2=&amp;CISOOP3=exact&amp;CISOFIELD3=creato&amp;CISOBOX3=&amp;CISOOP4=exact&amp;CISOFIELD4=CISOSEARCHALL&amp;CISOBOX4=Progressive+Friends&amp;c=exact&amp;CISOROOT=%2FHC_QuakSlav" target="_blank"> <img src="../../images/primarysources_dc.png" height="25" width="25" border="0" alt="Primary Sources Icon" title="Primary Sources" /></a>&nbsp;&nbsp;<a href="progressive.php"><img src="../../images/commentary_dc.png" height="25" width="25" border="0" alt="Commentary Icon" title="Scholarly Commentary" /></a></h3>  
       <p>Progressive Friends (also called &quot;Congregational Friends&quot;) A reform movement which developed among Hicksite Friends in the 1840s, but also included many non-Quaker liberals and radicals. Progressive Friends advocated a religion of humanity which stressed the inherent goodness and perfectibility of humankind and promoted such reform causes as abolition of slavery, temperance, women's rights, opposition to capital punishment, prison reform, homestead legislation, pacifism, Indian rights, economic regulation, and practical and co-educational schooling.      </p>
     <br />
@@ -664,18 +664,18 @@ function JumpToIt(list) {
   
 -->
 
- <tr>    <td valign="top"><a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,1564" target="_blank"> <img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=1564&amp;action=2&amp;DMSCALE=10&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=25&amp;DMY=60&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Female Teachers of FFA" title="Female Teachers of FFA" /></a></td>
+ <tr>    <td valign="top"><a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,1564" target="_blank"> <img src="thumbs/qs-thumb-1564" alt="Female Teachers of FFA" title="Female Teachers of FFA" /></a></td>
      
      
      <td valign="top"> <h3><a name="Rwomen"></a>Radical Quaker Women&nbsp;&nbsp; <a href="http://triptych.brynmawr.edu/cdm4/results.php?CISOOP1=all&CISOBOX1=&CISOFIELD1=CISOSEARCHALL&CISOOP2=exact&CISOBOX2=women%27s%20rights&CISOFIELD2=CISOSEARCHALL&CISOOP3=any&CISOBOX3=&CISOFIELD3=CISOSEARCHALL&CISOOP4=none&CISOBOX4=&CISOFIELD4=CISOSEARCHALL&CISOROOT=/HC_QuakSlav&t=a" target="_blank"> <img src="../../images/primarysources_dc.png" height="25" width="25" border="0" alt="Primary Sources Icon" title="Primary Sources" /></a>&nbsp;&nbsp;<a href="radical_quaker_women.php"><img src="../../images/commentary_dc.png" height="25" width="25" border="0" alt="Commentary Icon" title="Scholarly Commentary" /></a></h3>  
-      <p>Learn about radical Quaker women by exploring their role abolition in Pennsylvania and the early Women’s rights movement.  Topics discussed include the American Anti-Slavery Society, rural Quaker women, and the first Women’s Rights Convention held at Seneca Falls, New York, 1848. </p>
+      <p>Learn about radical Quaker women by exploring their role abolition in Pennsylvania and the early Womenï¿½s rights movement.  Topics discussed include the American Anti-Slavery Society, rural Quaker women, and the first Womenï¿½s Rights Convention held at Seneca Falls, New York, 1848. </p>
     <br />
     <br />
        </td>
   </tr>
 
 
-  <tr>    <td valign="top"><a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11727" target="_blank"> <img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11727&amp;action=2&amp;DMSCALE=20&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=30&amp;DMY=60&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Williamson" /></a></td>
+  <tr>    <td valign="top"><a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11727" target="_blank"> <img src="thumbs/qs-thumb-11727" alt="Williamson" /></a></td>
      
      
       <td valign="top"> <h3><a name="rescue"></a>Rescue of Jane Johnson&nbsp;&nbsp; 
@@ -689,7 +689,7 @@ function JumpToIt(list) {
 
 
 
-<!--  <tr>    <td valign="top"><a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,8024" target="_blank"> <img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=8024&amp;action=2&amp;DMSCALE=21&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=125&amp;DMY=435&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Notes on Abolition" /></a></td>
+<!--  <tr>    <td valign="top"><a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,8024" target="_blank"> <img src="thumbs/qs-thumb-8024" border="0" alt="Notes on Abolition" /></a></td>
       <td valign="top"> <h3><a name="colonization"></a>Sheppard &amp; Colonization&nbsp;&nbsp; <a href="http://triptych.brynmawr.edu/cdm4/results.php?CISORESTMP=results.php&amp;CISOVIEWTMP=item_viewer.php&amp;CISOMODE=grid&amp;CISOGRID=thumbnail,A,1;title,A,1;altern,A,0;creato,200,0;none,A,0;20;relevancy,none,none,none,none&amp;CISOBIB=title,A,1,N;altern,A,0,N;creato,200,0,N;none,A,0,N;none,A,0,N;20;relevancy,none,none,none,none&amp;CISOTHUMB=20%20(4x5);relevancy,none,none,none,none&amp;CISOTITLE=20;title,none,none,none,none&amp;CISOHIERA=20;altern,title,none,none,none&amp;CISOSUPPRESS=1&amp;CISOTYPE=link&amp;CISOOP1=all&amp;CISOFIELD1=title&amp;CISOBOX1=&amp;CISOOP2=all&amp;CISOFIELD2=altern&amp;CISOBOX2=&amp;CISOOP3=all&amp;CISOFIELD3=creato&amp;CISOBOX3=&amp;CISOOP4=all&amp;CISOFIELD4=CISOSEARCHALL&amp;CISOBOX4=colonization&amp;c=all&amp;CISOROOT=%2FHC_QuakSlav" target="_blank"> <img src="../../images/primarysources_dc.png" height="25" width="25" border="0" alt="Primary Sources Icon" title="Primary Sources" /></a>&nbsp;&nbsp;<a href="colonization.php"><img src="../../images/commentary_dc.png" height="25" width="25" border="0" alt="Commentary Icon" title="Scholarly Commentary" /></a></h3>  
       <p></p>
     <br />
@@ -699,7 +699,7 @@ function JumpToIt(list) {
   -->
   <!--
  <tr>
-  <td valign="top"><a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11721" target="_blank"> <img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11721&amp;action=2&amp;DMSCALE=5&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=75&amp;DMY=130&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt="US Map" /> </a></td>
+  <td valign="top"><a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11721" target="_blank"> <img src="thumbs/qs-thumb-11721" alt="US Map" /> </a></td>
  <td valign="top"> <h3><a name="southern"></a>Southern Quakers &amp; Slavery&nbsp;&nbsp;<a href="http://triptych.brynmawr.edu/cdm4/results.php?CISORESTMP=results.php&amp;CISOVIEWTMP=item_viewer.php&amp;CISOMODE=grid&amp;CISOGRID=thumbnail,A,1;title,A,1;altern,A,0;creato,200,0;none,A,0;20;relevancy,none,none,none,none&amp;CISOBIB=title,A,1,N;altern,A,0,N;creato,200,0,N;none,A,0,N;none,A,0,N;20;relevancy,none,none,none,none&amp;CISOTHUMB=20%20(4x5);relevancy,none,none,none,none&amp;CISOTITLE=20;title,none,none,none,none&amp;CISOHIERA=20;altern,title,none,none,none&amp;CISOSUPPRESS=1&amp;CISOTYPE=link&amp;CISOOP1=all&amp;CISOFIELD1=title&amp;CISOBOX1=&amp;CISOOP2=all&amp;CISOFIELD2=altern&amp;CISOBOX2=&amp;CISOOP3=all&amp;CISOFIELD3=creato&amp;CISOBOX3=&amp;CISOOP4=all&amp;CISOFIELD4=geogra&amp;CISOBOX4=southern&amp;c=all&amp;CISOROOT=%2FHC_QuakSlav" target="_blank"> <img src="../../images/primarysources_dc.png" height="25" width="25" border="0" alt="Primary Sources Icon" title="Primary Sources" /></a>&nbsp;&nbsp;<a href="southern.php"><img src="../../images/commentary_dc.png" height="25" width="25" border="0" alt="Commentary Icon" title="Scholarly Commentary" /></a></h3>  
  
       <p> </p>
@@ -714,7 +714,7 @@ function JumpToIt(list) {
 
 
    
- <tr>    <td valign="top"><a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11521" target="_blank"> <img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11521&amp;action=2&amp;DMSCALE=5&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=45&amp;DMY=20&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="White Slaves" /></a></td>
+ <tr>    <td valign="top"><a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11521" target="_blank"> <img src="thumbs/qs-thumb-11521" alt="White Slaves" /></a></td>
       <td valign="top"> <h3><a name="whiteslaves"></a>The White Slaves&nbsp;&nbsp; <a href="http://triptych.brynmawr.edu/cdm4/results.php?CISORESTMP=results.php&amp;CISOVIEWTMP=item_viewer.php&amp;CISOMODE=thumb&amp;CISOGRID=thumbnail,A,1;title,A,1;altern,A,0;creato,200,0;none,A,0;20;relevancy,none,none,none,none&amp;CISOBIB=title,A,1,N;altern,A,0,N;creato,200,0,N;none,A,0,N;none,A,0,N;20;relevancy,none,none,none,none&amp;CISOTHUMB=20%20(4x5);relevancy,none,none,none,none&amp;CISOTITLE=20;title,none,none,none,none&amp;CISOHIERA=20;altern,title,none,none,none&amp;CISOSUPPRESS=0&amp;CISOTYPE=link&amp;CISOOP1=exact&amp;CISOFIELD1=subjec&amp;CISOBOX1=national+freedman%27s+relief+association&amp;CISOOP2=exact&amp;CISOFIELD2=altern&amp;CISOBOX2=&amp;CISOOP3=exact&amp;CISOFIELD3=creato&amp;CISOBOX3=&amp;CISOOP4=exact&amp;CISOFIELD4=CISOSEARCHALL&amp;CISOBOX4=&amp;c=exact&amp;CISOROOT=%2FHC_QuakSlav" target="_blank"> <img src="../../images/primarysources_dc.png" height="25" width="25" border="0" alt="Primary Sources Icon" title="Primary Sources" /></a>&nbsp;&nbsp;<a href="white_slaves.php"><img src="../../images/commentary_dc.png" height="25" width="25" border="0" alt="Commentary Icon" title="Scholarly Commentary" /></a></h3>  
       <p>In 1863, the National Freedman's Association, in collaboration with the American Missionary Association and interested officers of the Union Army, launched a propaganda campaign to raise money to keep schools running in Louisiana. Five children and three adults, all former slaves from New Orleans, were sent to the North on a publicity tour. The authors of this campaign aroused sympathy for blacks by portraying them as white. The portraits were sold for 25 cents each. The proceeds of the sale were directed to Maj. Gen. Nathaniel P. Banks in Louisiana, where the money would be &quot;devoted to the education of colored people.&quot; </p>
     <br />

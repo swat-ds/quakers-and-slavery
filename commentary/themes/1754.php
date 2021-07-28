@@ -56,7 +56,7 @@
  * @access public
  * @author Richard Baskett <rick@baskettcase.com>
  * @category directory structure
- * @copyright Copyright © 2004, Baskettcase Web Development
+ * @copyright Copyright ï¿½ 2004, Baskettcase Web Development
  * @example example.php
  * @link http://www.baskettcase.com/classes/breadcrumb/
  * @package breadcrumb
@@ -560,7 +560,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
           <div id="content"> 
     <div id="pagecontent"> 
   <!-- InstanceBeginEditable name="pagecontent" -->  
-  <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,497" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=497&amp;action=2&amp;DMSCALE=16&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=15&amp;DMY=2&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Some Considerations..." /></a>
+  <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,497" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="thumbs/qs-thumb-497" border="0" alt="Some Considerations..." /></a>
     <h1><a name="essay"></a>1754</h1>
     <h3> By Mark Kaharas</h3>
     <p><i>Swarthmore College, Class of 2008. </i></p>
@@ -594,20 +594,20 @@ Philadelphia Yearly Meeting also authored an <a href="http://triptych.brynmawr.e
     
     <table border="0" cellpadding="0" cellspacing="1">
       <tr>
-        <td width="130"><div align="left"><a title="Some Considerations on the Keeping of Negroes" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,497" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=497&amp;action=2&amp;DMSCALE=16&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=15&amp;DMY=2&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Some Considerations..."  /></a>  </div></td>
+        <td width="130"><div align="left"><a title="Some Considerations on the Keeping of Negroes" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,497" target="_blank"><img src="thumbs/qs-thumb-497" border="0" alt="Some Considerations..."  /></a>  </div></td>
           <td width="70"></td>
 
     
-      <td width="130"><div align="left"><a title="Philadelphia Quarterly Meeting members suggest that Philadelphia Yearly Meeting issue an epistle against the buying and keeping of slaves." class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,8095" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=8095&amp;action=2&amp;DMSCALE=70&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=70&amp;DMY=2&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Philadelphia Quarterly Meeting"  /></a>  </div></td>
+      <td width="130"><div align="left"><a title="Philadelphia Quarterly Meeting members suggest that Philadelphia Yearly Meeting issue an epistle against the buying and keeping of slaves." class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,8095" target="_blank"><img src="thumbs/qs-thumb-8095" border="0" alt="Philadelphia Quarterly Meeting"  /></a>  </div></td>
         <td width="70"></td>
 
      
       
-       <td width="130"><div align="left"><a title="Philadelphia Yearly Meeting Epistle of Caution and Advice, 1754" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,1544" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=1544&amp;action=2&amp;DMSCALE=25&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=65&amp;DMY=9&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Epistle"  /></a>  </div></td>
+       <td width="130"><div align="left"><a title="Philadelphia Yearly Meeting Epistle of Caution and Advice, 1754" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,1544" target="_blank"><img src="thumbs/qs-thumb-1544" border="0" alt="Epistle"  /></a>  </div></td>
              <td width="70"></td>
 
            
-       <td width="130"><div align="left"><a title="John Woolman" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11696" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11696&amp;action=2&amp;DMSCALE=9&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=30&amp;DMY=40&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Woolman"  />
+       <td width="130"><div align="left"><a title="John Woolman" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11696" target="_blank"><img src="thumbs/qs-thumb-11696" border="0" alt="Woolman"  />
 </a>  </div></td>
    </tr>
 

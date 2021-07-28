@@ -56,7 +56,7 @@
  * @access public
  * @author Richard Baskett <rick@baskettcase.com>
  * @category directory structure
- * @copyright Copyright © 2004, Baskettcase Web Development
+ * @copyright Copyright ï¿½ 2004, Baskettcase Web Development
  * @example example.php
  * @link http://www.baskettcase.com/classes/breadcrumb/
  * @package breadcrumb
@@ -550,7 +550,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
 <!-- InstanceEndEditable --></div></div>
           <div id="content"> 
     <div id="pagecontent"> 
-  <!-- InstanceBeginEditable name="pagecontent" --><a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11627" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11627&amp;action=2&amp;DMSCALE=18&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=45&amp;DMY=210&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Mirror of Misery"/></a>
+  <!-- InstanceBeginEditable name="pagecontent" --><a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11627" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="thumbs/qs-thumb-11627" alt="Mirror of Misery"/></a>
     <h1><a name="essay"></a>The Kneeling Slave</h1>
     <h3> By </h3>
     <p><i></i></p>
@@ -567,7 +567,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
 		  <h3 align="right"><a name="featured" id="featured"></a>Featured Image:</h3>
 		  <p align="right"><i>The Kneeling Slave from the &quot;Mirror of Misery&quot;</i></p>
 		  <div align="right"><i> (see all references to <a href="http://triptych.brynmawr.edu/cdm4/results.php?CISORESTMP=results.php&amp;CISOVIEWTMP=item_viewer.php&amp;CISOMODE=thumb&amp;CISOGRID=thumbnail,A,1;title,A,1;altern,A,0;creato,200,0;none,A,0;20;relevancy,none,none,none,none&amp;CISOBIB=title,A,1,N;altern,A,0,N;creato,200,0,N;none,A,0,N;none,A,0,N;20;relevancy,none,none,none,none&amp;CISOTHUMB=20%20(4x5);relevancy,none,none,none,none&amp;CISOTITLE=20;title,none,none,none,none&amp;CISOHIERA=20;altern,title,none,none,none&amp;CISOSUPPRESS=0&amp;CISOTYPE=link&amp;CISOOP1=exact&amp;CISOFIELD1=descri&amp;CISOBOX1=version+of+image%3A+kneeling+slave&amp;CISOOP2=exact&amp;CISOFIELD2=altern&amp;CISOBOX2=&amp;CISOOP3=exact&amp;CISOFIELD3=creato&amp;CISOBOX3=&amp;CISOOP4=exact&amp;CISOFIELD4=CISOSEARCHALL&amp;CISOBOX4=&amp;c=exact&amp;CISOROOT=%2FHC_QuakSlav">Kneeling Slave Images in the Quakers &amp; Slavery Collection</a>)</i></div></td>
-          <td><a title="Mirror of Misery" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11627" target="_blank"><img style="padding:10px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11627&amp;action=2&amp;DMSCALE=25&amp;DMWIDTH=300&amp;DMHEIGHT=200&amp;DMX=15&amp;DMY=300&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Mirror of Misery" /></a></td>
+          <td><a title="Mirror of Misery" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11627" target="_blank"><img style="padding:10px" src="thumbs/qs-thumb-11627" alt="Mirror of Misery" /></a></td>
         </tr>
       </table>     
       <br />
@@ -591,16 +591,16 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
          
     <table border="0" cellpadding="0" cellspacing="1">
       <tr>
-      <td width="130"><div align="left"><a title="By Laws of the Free Produce Association" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,1044" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=1044&amp;action=2&amp;DMSCALE=16&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=85&amp;DMY=45&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Free Produce Association"  /></a>  </div></td>
+      <td width="130"><div align="left"><a title="By Laws of the Free Produce Association" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,1044" target="_blank"><img src="thumbs/qs-thumb-1044" border="0" alt="Free Produce Association"  /></a>  </div></td>
       <td width="70"></td>
       
-       <td width="130"><div align="left"><a title="Ant-Slavery Pamphlet" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,986" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=986&amp;action=2&amp;DMSCALE=14&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=45&amp;DMY=55&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Ant-Slavery Pamphlet"  /></a>  </div></td>
+       <td width="130"><div align="left"><a title="Ant-Slavery Pamphlet" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,986" target="_blank"><img src="thumbs/qs-thumb-986" border="0" alt="Ant-Slavery Pamphlet"  /></a>  </div></td>
        <td width="70"></td>
        
-        <td width="130"><div align="left"><a title="Constitution of the Free Produce Society" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4635" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=4635&amp;action=2&amp;DMSCALE=24&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=130&amp;DMY=75&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Constitution"  /></a>  </div></td>
+        <td width="130"><div align="left"><a title="Constitution of the Free Produce Society" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4635" target="_blank"><img src="thumbs/qs-thumb-4635" border="0" alt="Constitution"  /></a>  </div></td>
         <td width="70"></td>
      
-         <td width="130"><div align="left"><a title="Letter to George Washington Taylor, 1846" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,948" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=948&amp;action=2&amp;DMSCALE=18&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=20&amp;DMY=175&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Letter"  /></a>  </div></td>
+         <td width="130"><div align="left"><a title="Letter to George Washington Taylor, 1846" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,948" target="_blank"><img src="thumbs/qs-thumb-948" border="0" alt="Letter"  /></a>  </div></td>
             
        
       

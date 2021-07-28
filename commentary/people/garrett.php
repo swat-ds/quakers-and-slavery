@@ -56,7 +56,7 @@
  * @access public
  * @author Richard Baskett <rick@baskettcase.com>
  * @category directory structure
- * @copyright Copyright © 2004, Baskettcase Web Development
+ * @copyright Copyright ï¿½ 2004, Baskettcase Web Development
  * @example example.php
  * @link http://www.baskettcase.com/classes/breadcrumb/
  * @package breadcrumb
@@ -560,7 +560,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
     <div id="pagecontent"> 
   <!-- InstanceBeginEditable name="pagecontent" -->
 
-	   <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11141" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11141&amp;action=2&amp;DMSCALE=15&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=0&amp;DMY=40&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Thomas Garrett" title="Thomas Garrett"/></a>
+	   <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11141" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="thumbs/qs-thumb-11141" alt="Thomas Garrett" title="Thomas Garrett"/></a>
         <h1>Thomas Garrett</h1>
           <h3>By Mariah Parker</h3>
           <p><i>Swarthmore College Class of 2013</i></p>
@@ -577,7 +577,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
 		  <p align="right"><i>Uncle Tom's Cabin. George et Elisa Chez les Quakers.</i></p>
 		  <div align="right"><i>Thomas Garrett was the model for Simeon Halliday, the benevolent Quaker in </i>Uncle Tom's Cabin<i>. (See </i>A Key to Uncle Tom's Cabin<i> by Harriet Beecher Stowe (Boston: J.P. Jewett &amp; Co, 1853), p. 54.) This French illustration depicts a stereotypical Quaker household with  characteristic broad-brimmed hats worn by the stern-faced men. </i>
 		    </div></td>
-          <td><a title="Uncle Tom's Cabin" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11712" target="_blank"><img style="padding:10px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11712&amp;action=2&amp;DMSCALE=6&amp;DMWIDTH=300&amp;DMHEIGHT=200&amp;DMX=15&amp;DMY=30&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Uncle Tom's Cabin"/></a></td>
+          <td><a title="Uncle Tom's Cabin" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11712" target="_blank"><img style="padding:10px" src="thumbs/qs-thumb-11712" alt="Uncle Tom's Cabin"/></a></td>
   </tr>
       </table>    
       <br /> 
@@ -629,13 +629,13 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
     <br />
     <table border="0" cellpadding="0" cellspacing="1">
       <tr>
-        <td width="130"><div align="left"><a title="Thomas Garrett Trial Notes, 1848" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,8053" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=8054&amp;action=2&amp;DMSCALE=9&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=0&amp;DMY=0&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Trial Notes, 1848" border="0" title="Trial Notes, 1848" /></a></div></td>
+        <td width="130"><div align="left"><a title="Thomas Garrett Trial Notes, 1848" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,8053" target="_blank"><img src="thumbs/qs-thumb-8054" alt="Trial Notes, 1848" border="0" title="Trial Notes, 1848" /></a></div></td>
          <td width="70"></td>
-        <td width="130"><div align="left"><a title="Letter from Garrett to his Children, 1861" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,1508" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=1508&amp;action=2&amp;DMSCALE=12&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=20&amp;DMY=25&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Letter from Garret, 1861" title="Letter from Garret, 1861" /></a></div></td>
+        <td width="130"><div align="left"><a title="Letter from Garrett to his Children, 1861" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,1508" target="_blank"><img src="thumbs/qs-thumb-1508" alt="Letter from Garret, 1861" title="Letter from Garret, 1861" /></a></div></td>
          <td width="70"></td>
-        <td width="130"><div align="left"><a title="Pennylvania Progressive Friends" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,1069" target="_blank"> <img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=1069&amp;action=2&amp;DMSCALE=5&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=40&amp;DMY=60&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Progressive Friends" title="Progressive Friends" /> </a></div></td>
+        <td width="130"><div align="left"><a title="Pennylvania Progressive Friends" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,1069" target="_blank"> <img src="thumbs/qs-thumb-1069" alt="Progressive Friends" title="Progressive Friends" /> </a></div></td>
          <td width="70"></td>
-        <td width="130"><div align="left"><a title="Elijah F. Pennypacker Correspondence" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4087" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=4087&amp;action=2&amp;DMSCALE=20&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=0&amp;DMY=390&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=270" alt="Elijah F. Pennypacker" title="Elijah F. Pennypackers"/></a></div></td>
+        <td width="130"><div align="left"><a title="Elijah F. Pennypacker Correspondence" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4087" target="_blank"><img src="thumbs/qs-thumb-4087" alt="Elijah F. Pennypacker" title="Elijah F. Pennypackers"/></a></div></td>
       </tr>
       <tr>
         <td width="130" valign="top"><div align="left">Garrett Trial Notes, 1848</div></td>

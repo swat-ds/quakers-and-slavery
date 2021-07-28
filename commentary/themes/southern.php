@@ -56,7 +56,7 @@
  * @access public
  * @author Richard Baskett <rick@baskettcase.com>
  * @category directory structure
- * @copyright Copyright © 2004, Baskettcase Web Development
+ * @copyright Copyright ï¿½ 2004, Baskettcase Web Development
  * @example example.php
  * @link http://www.baskettcase.com/classes/breadcrumb/
  * @package breadcrumb
@@ -553,7 +553,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
           <div id="content"> 
     <div id="pagecontent"> 
   <!-- InstanceBeginEditable name="pagecontent" -->  
-  <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11721" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11721&amp;action=2&amp;DMSCALE=5&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=75&amp;DMY=130&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt="map"/></a>
+  <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11721" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="thumbs/qs-thumb-11721" alt="map"/></a>
     <h1><a name="essay"></a>Southern Quakers &amp; Slavery</h1>
     <h3> By Glen Crothers</h3>
     <p><i>University of Louisville</i></p>
@@ -581,10 +581,10 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
    
     <table border="0" cellpadding="0" cellspacing="1">
       <tr>
-         <td width="130"><div align="left"><a title="Eastern United States Map, 1818" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11721" target="_blank"><img style="padding:10px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11721&amp;action=2&amp;DMSCALE=5&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=75&amp;DMY=130&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="US Map 1818"  /></a>  </div></td>
+         <td width="130"><div align="left"><a title="Eastern United States Map, 1818" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11721" target="_blank"><img style="padding:10px" src="thumbs/qs-thumb-11721" border="0" alt="US Map 1818"  /></a>  </div></td>
           <td width="70"></td>
          
-          <td width="130"><div align="left"><a title="Letterbook" class="body_con" href=" http://triptych.brynmawr.edu/u?/HC_QuakSlav,11181" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11181&amp;action=2&amp;DMSCALE=30&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=85&amp;DMY=3&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Letterbook"  /></a>  </div></td>
+          <td width="130"><div align="left"><a title="Letterbook" class="body_con" href=" http://triptych.brynmawr.edu/u?/HC_QuakSlav,11181" target="_blank"><img src="thumbs/qs-thumb-11181" border="0" alt="Letterbook"  /></a>  </div></td>
    
   
   

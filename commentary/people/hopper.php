@@ -62,7 +62,7 @@
  * @access public
  * @author Richard Baskett <rick@baskettcase.com>
  * @category directory structure
- * @copyright Copyright © 2004, Baskettcase Web Development
+ * @copyright Copyright ï¿½ 2004, Baskettcase Web Development
  * @example example.php
  * @link http://www.baskettcase.com/classes/breadcrumb/
  * @package breadcrumb
@@ -562,7 +562,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
           <div id="content"> 
     <div id="pagecontent"> 
   <!-- InstanceBeginEditable name="pagecontent" -->
-    <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11153" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11153&amp;action=2&amp;DMSCALE=35&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=40&amp;DMY=20&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Page 1" title="Page 1" /></a>
+    <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11153" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="thumbs/qs-thumb-11153" border="0" alt="Page 1" title="Page 1" /></a>
         <h1>Isaac T. Hopper</h1>
           <h3>By Celia Caust-Ellenbogen</h3>
           <p><i>Swarthmore College, Class of 2009. Quakers &amp; Slavery Digitization Project Intern</i></p>
@@ -621,13 +621,13 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
     
     <table border="0" cellpadding="0" cellspacing="1">
       <tr>
-        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,7946" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=7946&amp;action=2&amp;DMSCALE=12&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=110&amp;DMY=0&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" title="Pennsylvania Hall Retrospectives" alt="Pennsylvania Hall Retrospectives" /></a></div></td>
+        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,7946" target="_blank"><img src="thumbs/qs-thumb-7946" title="Pennsylvania Hall Retrospectives" alt="Pennsylvania Hall Retrospectives" /></a></div></td>
          <td width="70"></td>
-        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4605" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=4605&amp;action=2&amp;DMSCALE=10&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=60&amp;DMY=0&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" title="Manumission Society Members" alt="Manumission Society Members" /></a></div></td>
+        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4605" target="_blank"><img src="thumbs/qs-thumb-4605" title="Manumission Society Members" alt="Manumission Society Members" /></a></div></td>
          <td width="70"></td>
-        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,7152" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=7152&amp;action=2&amp;DMSCALE=15&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=285&amp;DMY=382&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" title="NY Assocation of Friends for the Relief of those Held in Slavery" alt="NY Assocation of Friends for the Relief of those Held in Slavery" /></a></div></td>
+        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,7152" target="_blank"><img src="thumbs/qs-thumb-7152" title="NY Assocation of Friends for the Relief of those Held in Slavery" alt="NY Assocation of Friends for the Relief of those Held in Slavery" /></a></div></td>
          <td width="70"></td>
-        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11699" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11699&amp;action=2&amp;DMSCALE=13&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=143&amp;DMY=178&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" title="Rare Specimen of a Quaker Preacher!" alt="Rare Specimen of a Quaker Preacher!" /></a></div></td>
+        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11699" target="_blank"><img src="thumbs/qs-thumb-11699" title="Rare Specimen of a Quaker Preacher!" alt="Rare Specimen of a Quaker Preacher!" /></a></div></td>
       </tr>
       <tr>
         <td width="130" valign="top"><div align="left">Isaac T. Hopper Papers</div></td>

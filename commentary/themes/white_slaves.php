@@ -56,7 +56,7 @@
  * @access public
  * @author Richard Baskett <rick@baskettcase.com>
  * @category directory structure
- * @copyright Copyright © 2004, Baskettcase Web Development
+ * @copyright Copyright ï¿½ 2004, Baskettcase Web Development
  * @example example.php
  * @link http://www.baskettcase.com/classes/breadcrumb/
  * @package breadcrumb
@@ -557,7 +557,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
           <div id="content"> 
     <div id="pagecontent"> 
   <!-- InstanceBeginEditable name="pagecontent" -->
-    <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11521" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11521&amp;action=2&amp;DMSCALE=5&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=45&amp;DMY=20&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Emancipated Slaves"/></a>
+    <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11521" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="thumbs/qs-thumb-11521" border="0" alt="Emancipated Slaves"/></a>
         <h1>White Slaves</h1>
           <h3>By Celia Caust-Ellenbogen</h3>
           <p><i>Swarthmore College, Class of 2009. Quakers &amp; Slavery Digitization Project Intern</i></p>
@@ -573,14 +573,14 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
 		  <h3 align="right"><a name="featured" id="featured"></a>Featured Image:</h3>
 		  <p align="right"><i>LEARNING IS WEALTH: WILSON, CHARLEY, REBECCA &amp; ROSA, Slaves from New Orleans.</i></p>
 		  <div align="right"><i>Quakers often purchased photographs that, like this one, were sold as fund-raisers to support freedmen's relief work. This particular photograph was mixed amongst portraits of relatives and friends in a photograph album belonging to the Trumans, prominent Philadelphia-area Friends. (link to  a detailed inventory of the <a href="http://www.swarthmore.edu/library/friends/truman_underhill/truman_underhill.htm" target="_blank">Truman-Underhill Album Collection</a>) (see all references to <a href="http://triptych.brynmawr.edu/cdm4/results.php?CISOOP1=all&amp;CISOBOX1=truman&amp;CISOFIELD1=CISOSEARCHALL&amp;CISOOP2=exact&amp;CISOBOX2=&amp;CISOFIELD2=CISOSEARCHALL&amp;CISOOP3=any&amp;CISOBOX3=&amp;CISOFIELD3=CISOSEARCHALL&amp;CISOOP4=none&amp;CISOBOX4=&amp;CISOFIELD4=CISOSEARCHALL&amp;CISOROOT=/HC_QuakSlav&amp;t=a" target="_blank">Truman family members in the Quakers &amp; Slavery Collection</a>)</i></div></td>
-          <td><a title="Uncle Tom's Cabin" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11127" target="_blank"><img style="padding:10px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11127&amp;action=2&amp;DMSCALE=50&amp;DMWIDTH=300&amp;DMHEIGHT=200&amp;DMX=13&amp;DMY=140&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Uncle Tom's Cabin" /></a></td>
+          <td><a title="Uncle Tom's Cabin" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11127" target="_blank"><img style="padding:10px" src="thumbs/qs-thumb-11127" alt="Uncle Tom's Cabin" /></a></td>
         </tr>
       </table>     
       <br />
     <h2><a name="emancipation" id="emancipation"></a>The Emancipation Proclamation and Freedmen's Relief</h2>
           <p>When Abraham Lincoln's Emancipation Proclamation took effect on 1 January 1863, thousands of slaves living in the rebelling Confederate States found that they had been instantly &quot;freed.&quot; Technically speaking this was true, but the logistics involved in actually restoring a free and equal status to the newly emancipated slaves was, to say the least, staggering. Without money, education, or experience fending for themselves--not to mention the additional challenges of living in a war-torn and racially-prejudiced county--the former slaves faced seemingly insurmountable challenges to finding some means of subsistence. Northerners and abolitionists quickly deployed relief organizations, such as the <a href="http://triptych.brynmawr.edu/cdm4/results.php?CISOOP1=all&amp;CISOBOX1=Friends%20Association%20of%20Philadelphia%20for%20the%20Aid%20and%20Elevation%20of%20the%20Freedmen&amp;CISOFIELD1=CISOSEARCHALL&amp;CISOOP2=exact&amp;CISOBOX2=&amp;CISOFIELD2=CISOSEARCHALL&amp;CISOOP3=any&amp;CISOBOX3=&amp;CISOFIELD3=CISOSEARCHALL&amp;CISOOP4=none&amp;CISOBOX4=&amp;CISOFIELD4=CISOSEARCHALL&amp;CISOROOT=/HC_QuakSlav&amp;t=a" target="_blank">Friends Association of Philadelphia for the Aid and Elevation of the Freedmen</a>. These groups worked tirelessly to acquire supplies, establish schools, and provide other forms of support, but resources were limited. Moreover, it was not easy to arouse the sympathy of countrymen who were preoccupied by war, and more often than not ambivalent on the issue of African-American slavery. </p>
           <p>By December of the same year, 1863, much of Louisiana was occupied by the Union army. Ninety-five schools serving over 9,500 students--including almost half of the black children in Louisiana--were running under its auspices (Clinton 58). But keeping these schools up and running would require ongoing financial support. Toward this end, the National Freedman's Association, in collaboration with the American Missionary Association and interested officers of the Union Army, launched a new propaganda campaign. Five children and three adults, all former slaves from New Orleans, were sent to the North on a publicity tour. A drawing of them was printed in the 30 January 1864 issue of the popular <em>Harper's Weekly</em>, bearing the intriguing caption: <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11521" target="_blank">&quot;EMANCIPATED SLAVES, WHITE AND COLORED.&quot;</a> The authors of this campaign were pursuing a surprising, and quite effective, strategy for arousing sympathy for blacks--they portrayed them as white.</p>
- <div align="center"><a title="Emancipated Slaves, White and Colored" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11521" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11521&amp;action=2&amp;DMSCALE=8&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Emancipated Slaves"/></a>  
+ <div align="center"><a title="Emancipated Slaves, White and Colored" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11521" target="_blank"><img src="thumbs/qs-thumb-11521" alt="Emancipated Slaves"/></a>  
         </div>
 <p align="right"><a href="#top" target="_top">TOP</a> </p>
           <h2><a name="publicity" id="publicity"></a>The Publicity Tour </h2>
@@ -591,11 +591,11 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
   <tr>
                       <td width="200"><h2 align="center">White Slaves</h2> 
                 <p align="center">(clockwise): <span class="maintext">REBECCA, AUGUSTA and ROSA, Emancipated Slaves, from New Orleans</span>; R<span class="maintext">osa. A Slave Girl from New Orleans</span>; <span class="maintext">FREEDOM'S BANNER</span>: C<span class="maintext">HARLEY, A Slave Boy from New Orleans</span></p></td>
-        <td><a title="Rebecca, Augusta &amp; Rosa" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11132" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11132&amp;action=2&amp;DMSCALE=35&amp;DMWIDTH=200&amp;DMHEIGHT=200&amp;DMX=10&amp;DMY=70&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="White Slaves"/></a></td>
+        <td><a title="Rebecca, Augusta &amp; Rosa" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11132" target="_blank"><img src="thumbs/qs-thumb-11132" alt="White Slaves"/></a></td>
   </tr>
   <tr>
-        <td width="200"><a title="Charley" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11130" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11130&amp;action=2&amp;DMSCALE=35&amp;DMWIDTH=200&amp;DMHEIGHT=200&amp;DMX=60&amp;DMY=60&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Charley" /></a></td>
-        <td><a title="Rosa" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11128" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11128&amp;action=2&amp;DMSCALE=40&amp;DMWIDTH=200&amp;DMHEIGHT=200&amp;DMX=30&amp;DMY=80&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Rosa" /></a></td>
+        <td width="200"><a title="Charley" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11130" target="_blank"><img src="thumbs/qs-thumb-11130" alt="Charley" /></a></td>
+        <td><a title="Rosa" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11128" target="_blank"><img src="thumbs/qs-thumb-11128" alt="Rosa" /></a></td>
   </tr>
 </table>
 </div>
@@ -609,12 +609,12 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
             <tr>
               <td width="200"><h2 align="center">Rebecca</h2> 
               <p align="center">photographed by (clockwise): <a href="http://triptych.brynmawr.edu/cdm4/results.php?CISOOP1=all&amp;CISOBOX1=paxson&amp;CISOFIELD1=creato&amp;CISOOP2=exact&amp;CISOBOX2=&amp;CISOFIELD2=altern&amp;CISOOP3=any&amp;CISOBOX3=&amp;CISOFIELD3=creato&amp;CISOOP4=none&amp;CISOBOX4=&amp;CISOFIELD4=CISOSEARCHALL&amp;CISOROOT=/HC_QuakSlav&amp;t=s" target="_blank">Charles Paxson</a>, New York; <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11160" target="_blank">James E. M'Clees</a>, Philadelphia; <a href="http://triptych.brynmawr.edu/cdm4/results.php?CISOOP1=all&amp;CISOBOX1=kimball&amp;CISOFIELD1=creato&amp;CISOOP2=exact&amp;CISOBOX2=&amp;CISOFIELD2=altern&amp;CISOOP3=any&amp;CISOBOX3=&amp;CISOFIELD3=creato&amp;CISOOP4=none&amp;CISOBOX4=&amp;CISOFIELD4=CISOSEARCHALL&amp;CISOROOT=/HC_QuakSlav&amp;t=s" target="_blank">Myron H. Kimball</a>, New York </p></td>
-        <td><a title="Rebecca by Paxson" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11129" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11129&amp;action=2&amp;DMSCALE=40&amp;DMWIDTH=200&amp;DMHEIGHT=200&amp;DMX=120&amp;DMY=100&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Rebecca"/></a></td>
+        <td><a title="Rebecca by Paxson" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11129" target="_blank"><img src="thumbs/qs-thumb-11129" alt="Rebecca"/></a></td>
             </tr>
  
             <tr>
-        <td width="200"><a title="Rebecca by Kimball" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11133" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11133&amp;action=2&amp;DMSCALE=35&amp;DMWIDTH=200&amp;DMHEIGHT=200&amp;DMX=15&amp;DMY=35&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Rebecca" /></a></td>
-        <td><a title="Rebecca by M'Clees" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11160" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11160&amp;action=2&amp;DMSCALE=50&amp;DMWIDTH=200&amp;DMHEIGHT=200&amp;DMX=70&amp;DMY=120&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="" /></a></td>
+        <td width="200"><a title="Rebecca by Kimball" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11133" target="_blank"><img src="thumbs/qs-thumb-11133" alt="Rebecca" /></a></td>
+        <td><a title="Rebecca by M'Clees" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11160" target="_blank"><img src="thumbs/qs-thumb-11160" alt="" /></a></td>
             </tr>
           </table></div>
  <p align="right"><a href="#top" target="_top">TOP</a> </p>    
@@ -634,16 +634,16 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
     <br />
     <table border="0" cellpadding="0" cellspacing="1">
       <tr>
-        <td width="130"><div align="left"><a title="Wilson" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11131" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11131&amp;action=2&amp;DMSCALE=50&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=100&amp;DMY=20&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Wilson" /></a></div></td>
+        <td width="130"><div align="left"><a title="Wilson" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11131" target="_blank"><img src="thumbs/qs-thumb-11131" alt="Wilson" /></a></div></td>
         <td width="70"></td>
 
-        <td width="130"><div align="left"><a title="Annual Reports of Friends' Freedman Association" class="body_con" href="http://triptych.brynmawr.edu/cdm4/page_text.php?CISOROOT=/HC_QuakSlav&amp;CISOPTR=7266&amp;CISOBOX=0&amp;OBJ=7459&amp;ITEM=2" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=7266&amp;action=2&amp;DMSCALE=8&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=225&amp;DMY=213&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Reports" /></a></div></td>
+        <td width="130"><div align="left"><a title="Annual Reports of Friends' Freedman Association" class="body_con" href="http://triptych.brynmawr.edu/cdm4/page_text.php?CISOROOT=/HC_QuakSlav&amp;CISOPTR=7266&amp;CISOBOX=0&amp;OBJ=7459&amp;ITEM=2" target="_blank"><img src="thumbs/qs-thumb-7266" alt="Reports" /></a></div></td>
         <td width="70"></td>
 
-        <td width="130"><div align="left"><a title="Teachers of Friends' Freedman Association" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,1564" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=1564&amp;action=2&amp;DMSCALE=10&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=20&amp;DMY=60&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0"  alt="Teachers"/></a></div></td>
+        <td width="130"><div align="left"><a title="Teachers of Friends' Freedman Association" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,1564" target="_blank"><img src="thumbs/qs-thumb-1564"  alt="Teachers"/></a></div></td>
         <td width="70"></td>
 
-        <td width="130"><div align="left"><a title="Slaves Learning" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11136" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11136&amp;action=2&amp;DMSCALE=19&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=0&amp;DMY=25&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Slaves Learning" /></a></div></td>
+        <td width="130"><div align="left"><a title="Slaves Learning" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11136" target="_blank"><img src="thumbs/qs-thumb-11136" alt="Slaves Learning" /></a></div></td>
       </tr>
       <tr>
         <td width="130" valign="top"><div align="left">Wilson, from the same series </div></td>

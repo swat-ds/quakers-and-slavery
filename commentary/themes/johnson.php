@@ -56,7 +56,7 @@
  * @access public
  * @author Richard Baskett <rick@baskettcase.com>
  * @category directory structure
- * @copyright Copyright © 2004, Baskettcase Web Development
+ * @copyright Copyright ï¿½ 2004, Baskettcase Web Development
  * @example example.php
  * @link http://www.baskettcase.com/classes/breadcrumb/
  * @package breadcrumb
@@ -562,7 +562,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
           <div id="content"> 
     <div id="pagecontent"> 
   <!-- InstanceBeginEditable name="pagecontent" -->
-    <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11727" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11727&amp;action=2&amp;DMSCALE=20&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=30&amp;DMY=60&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="William Still" /></a>
+    <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11727" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="thumbs/qs-thumb-11727" border="0" alt="William Still" /></a>
         <h1>Rescue of Jane Johnson</h1>
           <h3>By Celia Caust-Ellenbogen</h3>
           <p><i>Swarthmore College, Class of 2009. Quakers &amp; Slavery Digitization Project Intern</i></p>
@@ -577,7 +577,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
 		  <h3 align="right"><a name="featured" id="featured"></a>Featured Image:</h3>
 		  <p align="right"><i>Rescue of Jane Johnson and Her Children</i></p>
 		  <div align="right" ><i>Jane Johnson's dramatic rescue from a ferry in Philadelphia is pictured in </i>The Underground Rail Road<i> by William Still (Philadelphia: Porter &amp; Coates, 1872, p. 89), where it appears opposite a narrative account of the event. William Still is pictured in a tall top hat at the center of the image, escorting Johnson and her children off the ferry. Wearing a beard and traditional Quaker garb, Passmore Williamson restrains John H. Wheeler, who is shown from the back, his face in shadow, his hands grasping for his former slaves.</i></div></td>
-          <td><a title="Uncle Tom's Cabin" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11710" target="_blank"><img style="padding:10px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11710&amp;action=2&amp;DMSCALE=6&amp;DMWIDTH=300&amp;DMHEIGHT=200&amp;DMX=0&amp;DMY=0&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Rescue of Johnson"/></a></td>
+          <td><a title="Uncle Tom's Cabin" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11710" target="_blank"><img style="padding:10px" src="thumbs/qs-thumb-11710" alt="Rescue of Johnson"/></a></td>
         </tr>
       </table>     
       <br />
@@ -619,13 +619,13 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
    
      
       <tr>
-        <td width="130"><div align="left"><a title="Lucretia Mott Letter" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11700" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11701&amp;action=2&amp;DMSCALE=22&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=140&amp;DMY=550&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Letter"/></a></div></td>
+        <td width="130"><div align="left"><a title="Lucretia Mott Letter" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11700" target="_blank"><img src="thumbs/qs-thumb-11701" alt="Letter"/></a></div></td>
          <td width="70"></td>
-        <td width="130"><div align="left"><a title="Philadelphia in Slavery Days" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,7111" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=7111&amp;action=2&amp;DMSCALE=13&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=720&amp;DMY=210&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt=""/></a></div></td>
+        <td width="130"><div align="left"><a title="Philadelphia in Slavery Days" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,7111" target="_blank"><img src="thumbs/qs-thumb-7111" alt=""/></a></div></td>
          <td width="70"></td>
-        <td width="130"><div align="left"><a title="Pennsylvania Yearly Meeting of Progressive Friends" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,6102" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=6102&amp;action=2&amp;DMSCALE=27&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=70&amp;DMY=590&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="PYM Progressive Friends"/></a></div></td>
+        <td width="130"><div align="left"><a title="Pennsylvania Yearly Meeting of Progressive Friends" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,6102" target="_blank"><img src="thumbs/qs-thumb-6102" alt="PYM Progressive Friends"/></a></div></td>
          <td width="70"></td>
-        <td width="130"><div align="left"><a title="American Anti-Slavery Society Anniversary" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,8702" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=8702&amp;action=2&amp;DMSCALE=13&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=280&amp;DMY=0&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="AASS"/></a></div></td>
+        <td width="130"><div align="left"><a title="American Anti-Slavery Society Anniversary" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,8702" target="_blank"><img src="thumbs/qs-thumb-8702" alt="AASS"/></a></div></td>
       </tr>
       <tr>
         <td width="130" valign="top"><div align="left">Lucretia Mott Letter </div></td>

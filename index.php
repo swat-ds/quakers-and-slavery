@@ -53,7 +53,7 @@
  * @access public
  * @author Richard Baskett <rick@baskettcase.com>
  * @category directory structure
- * @copyright Copyright © 2004, Baskettcase Web Development
+ * @copyright Copyright ï¿½ 2004, Baskettcase Web Development
  * @example example.php
  * @link http://www.baskettcase.com/classes/breadcrumb/
  * @package breadcrumb
@@ -556,7 +556,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
    <br />
    
    
-<a href="../quakersandslavery/resources/map_world.php"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11720&amp;action=2&amp;DMSCALE=6&amp;DMWIDTH=180&amp;DMHEIGHT=140&amp;DMX=150&amp;DMY=40&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Map Icon"/></a><h3>By Location</h3>
+<a href="../quakersandslavery/resources/map_world.php"><img src="thumbs/qs-thumb-11720" alt="Map Icon"/></a><h3>By Location</h3>
  
   
  

@@ -56,7 +56,7 @@
  * @access public
  * @author Richard Baskett <rick@baskettcase.com>
  * @category directory structure
- * @copyright Copyright © 2004, Baskettcase Web Development
+ * @copyright Copyright ï¿½ 2004, Baskettcase Web Development
  * @example example.php
  * @link http://www.baskettcase.com/classes/breadcrumb/
  * @package breadcrumb
@@ -550,7 +550,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
 <!-- InstanceEndEditable --></div></div>
           <div id="content"> 
     <div id="pagecontent"> 
-  <!-- InstanceBeginEditable name="pagecontent" --><a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4634" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=986&amp;action=2&amp;DMSCALE=14&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=45&amp;DMY=55&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Free Produce"/></a>
+  <!-- InstanceBeginEditable name="pagecontent" --><a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4634" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="thumbs/qs-thumb-986" alt="Free Produce"/></a>
     <h1><a name="essay"></a>The Free Produce Movement</h1>
     <h3> By Carol Faulkner</h3>
     <p><i>Syracuse University</i></p>
@@ -582,16 +582,16 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
          
     <table border="0" cellpadding="0" cellspacing="1">
       <tr>
-      <td width="130"><div align="left"><a title="By Laws of the Free Produce Association" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,1044" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=1044&amp;action=2&amp;DMSCALE=16&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=85&amp;DMY=45&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Free Produce Association"  /></a>  </div></td>
+      <td width="130"><div align="left"><a title="By Laws of the Free Produce Association" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,1044" target="_blank"><img src="thumbs/qs-thumb-1044" border="0" alt="Free Produce Association"  /></a>  </div></td>
        <td width="70"></td>
       
-       <td width="130"><div align="left"><a title="Ant-Slavery Pamphlet" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,986" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=986&amp;action=2&amp;DMSCALE=14&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=45&amp;DMY=55&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Ant-Slavery Pamphlet"  /></a>  </div></td>
+       <td width="130"><div align="left"><a title="Ant-Slavery Pamphlet" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,986" target="_blank"><img src="thumbs/qs-thumb-986" border="0" alt="Ant-Slavery Pamphlet"  /></a>  </div></td>
         <td width="70"></td>
        
-        <td width="130"><div align="left"><a title="Constitution of the Free Produce Society" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4635" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=4635&amp;action=2&amp;DMSCALE=24&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=130&amp;DMY=75&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Constitution"  /></a>  </div></td>
+        <td width="130"><div align="left"><a title="Constitution of the Free Produce Society" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4635" target="_blank"><img src="thumbs/qs-thumb-4635" border="0" alt="Constitution"  /></a>  </div></td>
          <td width="70"></td>
      
-         <td width="130"><div align="left"><a title="Letter to George Washington Taylor, 1846" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,948" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=948&amp;action=2&amp;DMSCALE=18&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=20&amp;DMY=175&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Letter"  /></a>  </div></td>
+         <td width="130"><div align="left"><a title="Letter to George Washington Taylor, 1846" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,948" target="_blank"><img src="thumbs/qs-thumb-948" border="0" alt="Letter"  /></a>  </div></td>
             
        
       

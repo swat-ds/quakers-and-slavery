@@ -78,7 +78,7 @@ function MM_swapImage() { //v3.0
  * @access public
  * @author Richard Baskett <rick@baskettcase.com>
  * @category directory structure
- * @copyright Copyright © 2004, Baskettcase Web Development
+ * @copyright Copyright ï¿½ 2004, Baskettcase Web Development
  * @example example.php
  * @link http://www.baskettcase.com/classes/breadcrumb/
  * @package breadcrumb
@@ -574,15 +574,15 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
       
      <table border="0" cellpadding="0" cellspacing="1">
       <tr>
-        <td width="130"><div align="left"><a title="Germantown Protest" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,5837" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=5837&amp;action=2&amp;action=2&amp;DMSCALE=5&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=3&amp;DMY=3&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Germantown Protest"/></a></div></td>
+        <td width="130"><div align="left"><a title="Germantown Protest" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,5837" target="_blank"><img src="thumbs/qs-thumb-5837" alt="Germantown Protest"/></a></div></td>
         <td width="70"></td>
-        <td width="130"><div align="left"><a title="History of the Rise, Progress, and Abolition of the African Slave Trade" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,1502" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=1502&amp;action=2&amp;DMSCALE=6.5&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=0&amp;DMY=5&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="History of the Rise, Progress, and Abolition of the African Slave Trade"/></a></div></td>
+        <td width="130"><div align="left"><a title="History of the Rise, Progress, and Abolition of the African Slave Trade" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,1502" target="_blank"><img src="thumbs/qs-thumb-1502" alt="History of the Rise, Progress, and Abolition of the African Slave Trade"/></a></div></td>
         <td width="70"></td>
-        <td width="130"><div align="left"><a title="Pennsylvania Hall, Legal &amp; Financial" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4551" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=4551&amp;action=2&amp;DMSCALE=14&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=180&amp;DMY=20&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Pennsylvania Hall, Legal &amp; Financial" /></a></div></td>
+        <td width="130"><div align="left"><a title="Pennsylvania Hall, Legal &amp; Financial" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4551" target="_blank"><img src="thumbs/qs-thumb-4551" alt="Pennsylvania Hall, Legal &amp; Financial" /></a></div></td>
         <td width="70"></td>
-        <td width="130"><div align="left"><a title="Maryland Colonization Society" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11008" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11008&amp;action=2&amp;DMSCALE=5&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=0&amp;DMY=0&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Maryland Colonization Society" /></a></div></td>
+        <td width="130"><div align="left"><a title="Maryland Colonization Society" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11008" target="_blank"><img src="thumbs/qs-thumb-11008" alt="Maryland Colonization Society" /></a></div></td>
         <td width="70"></td>
-        <td width="130"><div align="left"><a title="Woolman Journal" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,12053" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=12053&amp;action=2&amp;DMSCALE=10&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=170&amp;DMY=30&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Woolman Journal"/></a></div></td>      </tr>
+        <td width="130"><div align="left"><a title="Woolman Journal" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,12053" target="_blank"><img src="thumbs/qs-thumb-12053" alt="Woolman Journal"/></a></div></td>      </tr>
       <tr>
         <td width="130" valign="top" ><div align="left">Germantown Protest </div></td>
             <td width="70"></td>

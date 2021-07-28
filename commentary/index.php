@@ -51,7 +51,7 @@
  * @access public
  * @author Richard Baskett <rick@baskettcase.com>
  * @category directory structure
- * @copyright Copyright © 2004, Baskettcase Web Development
+ * @copyright Copyright ï¿½ 2004, Baskettcase Web Development
  * @example example.php
  * @link http://www.baskettcase.com/classes/breadcrumb/
  * @package breadcrumb
@@ -552,11 +552,11 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
 
 <tr>
 
-<td width="200"><div align="left"><a href="themes/index.php" ><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=5837&amp;action=2&amp;DMSCALE=27&amp;DMWIDTH=250&amp;DMHEIGHT=200&amp;DMX=80&amp;DMY=120&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Protest, 1688" /></a></div></td>
+<td width="200"><div align="left"><a href="themes/index.php" ><img src="thumbs/qs-thumb-5837" alt="Protest, 1688" /></a></div></td>
 
-<td width="200"><div align="left"><a href="people/index.php" ><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=395&amp;action=2&amp;DMSCALE=11&amp;DMWIDTH=250&amp;DMHEIGHT=200&amp;DMX=30&amp;DMY=65&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Benjamin Lay" /></a></div></td>
+<td width="200"><div align="left"><a href="people/index.php" ><img src="thumbs/qs-thumb-395" alt="Benjamin Lay" /></a></div></td>
 
-<td width="200"><div align="left"><a href="organizations/index.php" ><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11159&amp;action=2&amp;DMSCALE=12&amp;DMWIDTH=250&amp;DMHEIGHT=200&amp;DMX=50&amp;DMY=20&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Anti-Slavery Society" /></a></div>
+<td width="200"><div align="left"><a href="organizations/index.php" ><img src="thumbs/qs-thumb-11159" alt="Anti-Slavery Society" /></a></div>
 </td>
 </tr>
 

@@ -56,7 +56,7 @@
  * @access public
  * @author Richard Baskett <rick@baskettcase.com>
  * @category directory structure
- * @copyright Copyright © 2004, Baskettcase Web Development
+ * @copyright Copyright ï¿½ 2004, Baskettcase Web Development
  * @example example.php
  * @link http://www.baskettcase.com/classes/breadcrumb/
  * @package breadcrumb
@@ -557,7 +557,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
           <div id="content"> 
     <div id="pagecontent"> 
   <!-- InstanceBeginEditable name="pagecontent" -->
-    <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11148" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11148&amp;action=2&amp;DMSCALE=5&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=2&amp;DMY=10&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" title="John G. Whittier" alt="John G. Whittier"/></a>
+    <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11148" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="thumbs/qs-thumb-11148" title="John G. Whittier" alt="John G. Whittier"/></a>
         <h1>John Greenleaf Whittier </h1>
           <h3>By Patricia O'Donnell </h3>
           <p><i>Archivist, Friends Historical Library</i></p>
@@ -572,7 +572,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
 		  <p align="right" ><i>Virtuous Harry, or Set a Thief to Catch a Thief!</i></p>
 		  <div align="right" ><i>Henry Clay was a controversial figure in the Society of Friends. As a leading statesman and compelling orator, Clay initially commanded a large Quaker following--especially among the Orthodox--but his support gradually waned (Ryan P. Jordan, </i>Slavery and the Meetinghouse<i>. Bloomington: Indiana Univ. Press, 2007. p. 51). He presented himself as a moderate antislavery advocate--he was president of the <a href="../organizations/index.php#acs">American Colonization Society</a>, and, as this political cartoon shows, he opposed admitting slave territories like Texas into the Union. Nevertheless, Clay owned slaves himself. As the cartoon further demonstrates, this earned him a reputation for hypocrisy in the eyes of certain Quakers. John Greenleaf Whittier was one such Friend. He supported Clay's Presidential bid at the 1831 Republican National Convention, but later opposed Clay when he  ran as the Whig candidate.&quot;[O]ur Henry Clay,&quot; a disillusioned Whittier wrote in 1838, &quot;the man we have all loved and honored and </i>forgiven<i>--will he stoop to meanness so ineffable?&quot; (qtd. in <a href="#references">Pickard, vol. I, pp. 237-238</a>). Shortly after Henry Clay spoke at Indiana Yearly Meeting during a campaign tour in 1844, a schism in the group resulted in the formation of the Indiana Yearly Meeting of Anti-Slavery Friends. Whittier publicly denounced the group of Indiana Quakers who sided with Clay against the abolitionists (Jordan, p. 54-55).</i>
 		    </div></td>
-          <td width="300" height="200"><a title="Virtuous Harry" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11161" target="_blank"><img style="padding:10px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11161&amp;action=2&amp;DMSCALE=34&amp;DMWIDTH=300&amp;DMHEIGHT=200&amp;DMX=290&amp;DMY=120&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Virtuous Harry"/></a></td>
+          <td width="300" height="200"><a title="Virtuous Harry" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11161" target="_blank"><img style="padding:10px" src="thumbs/qs-thumb-11161" alt="Virtuous Harry"/></a></td>
   </tr>
         <tr>
           <td width="300" valign="top">&nbsp;&nbsp;TEXAS (woman, left): &quot;Shall the slanders that have been &nbsp;&nbsp;urged against your sister, sever those whose blood &nbsp;&nbsp;flows from the same fountain?&quot;<br /><br />
@@ -602,13 +602,13 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
 <br />
     <table border="0" cellpadding="0" cellspacing="1">
       <tr>
-        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11137" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11137&amp;action=2&amp;DMSCALE=3&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=8&amp;DMY=0&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" title="Our Countrymen in Chains!" alt="Our Countrymen in Chains!" /></a></div></td>
+        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11137" target="_blank"><img src="thumbs/qs-thumb-11137" title="Our Countrymen in Chains!" alt="Our Countrymen in Chains!" /></a></div></td>
            <td width="70"></td>
-        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,8646" target="_blank"> <img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=8646&amp;action=2&amp;DMSCALE=11&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=60&amp;DMY=40&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" title="American Anti-Slavery Society" alt="American Anti-Slavery Society" /></a></div></td>
+        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,8646" target="_blank"> <img src="thumbs/qs-thumb-8646" title="American Anti-Slavery Society" alt="American Anti-Slavery Society" /></a></div></td>
            <td width="70"></td>
-        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,3691" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=3691&amp;action=2&amp;DMSCALE=20&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=470&amp;DMY=180&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" title="Letter to Grimke Sisters" alt="Letter to Grimke Sisters" /></a></div></td>
+        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,3691" target="_blank"><img src="thumbs/qs-thumb-3691" title="Letter to Grimke Sisters" alt="Letter to Grimke Sisters" /></a></div></td>
            <td width="70"></td>
-        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4594" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=4594&amp;action=2&amp;DMSCALE=15&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=15&amp;DMY=120&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" title="Pennsylvania Hall Retrospectives" alt="Pennsylvania Hall Retrospectives" /></a></div></td>
+        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4594" target="_blank"><img src="thumbs/qs-thumb-4594" title="Pennsylvania Hall Retrospectives" alt="Pennsylvania Hall Retrospectives" /></a></div></td>
       </tr>
       <tr>
         <td width="130" valign="top"><div align="left">'Our Countrymen in Chains!' broadside with poem</div></td>

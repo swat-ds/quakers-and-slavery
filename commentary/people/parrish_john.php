@@ -56,7 +56,7 @@
  * @access public
  * @author Richard Baskett <rick@baskettcase.com>
  * @category directory structure
- * @copyright Copyright © 2004, Baskettcase Web Development
+ * @copyright Copyright ï¿½ 2004, Baskettcase Web Development
  * @example example.php
  * @link http://www.baskettcase.com/classes/breadcrumb/
  * @package breadcrumb
@@ -556,7 +556,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
           <div id="content"> 
     <div id="pagecontent"> 
   <!-- InstanceBeginEditable name="pagecontent" -->
-    <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,7975" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=7975&amp;action=2&amp;DMSCALE=9&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=48&amp;DMY=40&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Page 1" title="Page 1" /></a>
+    <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,7975" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="thumbs/qs-thumb-7975" border="0" alt="Page 1" title="Page 1" /></a>
         <h1>John Parrish, "Notes On Abolition" (circa 1805)</h1>
           <h3>By Richard S. Newman</h3>
           <p><i>Rochester Institute of Technology</i></p>
@@ -593,11 +593,11 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
     <center>    
 	<table border="0" cellpadding="0" cellspacing="1">
       <tr>
-        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,7975" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=7975&amp;action=2&amp;DMSCALE=9&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=48&amp;DMY=40&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" title="Notes on Abolition" alt="Notes on Abolition" /></a></div></td>
+        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,7975" target="_blank"><img src="thumbs/qs-thumb-7975" title="Notes on Abolition" alt="Notes on Abolition" /></a></div></td>
          <td width="70"></td>
-        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,9657" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=9657&amp;action=2&amp;DMSCALE=30&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=220&amp;DMY=200&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" title="Anthony Benezet to George Dillwyn" alt="Anthony Benezet to George Dillwyn" /></a></div></td>
+        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,9657" target="_blank"><img src="thumbs/qs-thumb-9657" title="Anthony Benezet to George Dillwyn" alt="Anthony Benezet to George Dillwyn" /></a></div></td>
          <td width="70"></td>
-        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,9969" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=9969&amp;action=2&amp;DMSCALE=40&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=488&amp;DMY=450&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" title="Notices of David Cooper" alt="Notices of David Cooper"/></a></div></td>
+        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,9969" target="_blank"><img src="thumbs/qs-thumb-9969" title="Notices of David Cooper" alt="Notices of David Cooper"/></a></div></td>
       </tr>
       <tr>
         <td width="130"><div align="left">Notes on Abolition by John Parrish </div></td>

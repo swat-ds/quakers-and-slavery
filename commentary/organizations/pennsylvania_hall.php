@@ -56,7 +56,7 @@
  * @access public
  * @author Richard Baskett <rick@baskettcase.com>
  * @category directory structure
- * @copyright Copyright © 2004, Baskettcase Web Development
+ * @copyright Copyright ï¿½ 2004, Baskettcase Web Development
  * @example example.php
  * @link http://www.baskettcase.com/classes/breadcrumb/
  * @package breadcrumb
@@ -561,7 +561,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
           <div id="content"> 
     <div id="pagecontent"> 
   <!-- InstanceBeginEditable name="pagecontent" -->    
-      <a href="http://triptych.brynmawr.edu/u?/Friends,716" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/Friends&amp;CISOPTR=716&amp;action=2&amp;DMSCALE=35&amp;DMWIDTH=150&amp;DMHEIGHT=150&amp;DMX=30&amp;DMY=20&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Pennsylvania Hall" border="0" /></a>
+      <a href="http://triptych.brynmawr.edu/u?/Friends,716" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="thumbs/qs-thumb-716.jpg" alt="Pennsylvania Hall" border="0" /></a>
         <h1>Pennsylvania Hall Association</h1>
           <h3>By Celia Caust-Ellenbogen</h3>
           <p><i>Swarthmore College, Class of 2009. Quakers &amp; Slavery Digitization Project Intern</i></p>
@@ -576,7 +576,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
 		  <h3 align="right"><a name="featured" id="featured"></a>Featured Image:</h3>
 		  <p align="right"><i>The Burning of Pennsylvania Hall </i></p>
 		  <div align="right"><i>This image was engraved by John Sartain, an artist and abolitionist who based the mezzotint upon a sketch he made while witnessing the riot (see </i>Philadelphia's Cultural Landscape<em>, ed. by Katharine Martinez and Page Talbott (Phila.: Temple Univ. Press, 2000) p. </em><i>13). It was a widely reproduced image that appeared in </i><span class="maintext">History of Pennsylvania Hall </span><i><span class="maintext">(Phila.: Mayhew and Gunn, 1838). </span>This particular print is in a frame made out of wood salvaged from the Pennsylvania Hall fire--the frame, which used to hold a mirror, was originally owned by John G. Whittier.</i></div></td>
-          <td><a title="Burning of Pennsylvania Hall" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,9589" target="_blank"><img style="padding:10px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11163&amp;action=2&amp;DMSCALE=15&amp;DMWIDTH=300&amp;DMHEIGHT=200&amp;DMX=10&amp;DMY=5&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Burning of Pennsylvania Hall"/></a></td>
+          <td><a title="Burning of Pennsylvania Hall" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,9589" target="_blank"><img style="padding:10px" src="thumbs/qs-thumb-11163" alt="Burning of Pennsylvania Hall"/></a></td>
         </tr>
       </table>    
       <br /> 
@@ -595,8 +595,8 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
 <center>
 <table border="0">
   <tr>
-            <td><div align="center"><a title="Before" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11162" target="_blank"><img style="padding:10px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11162&amp;action=2&amp;DMSCALE=14&amp;DMWIDTH=300&amp;DMHEIGHT=200&amp;DMX=60&amp;DMY=30&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Before" /></a></div></td>
-          <td><div align="center"><a title="After" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11164" target="_blank"><img style="padding:10px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11164&amp;action=2&amp;DMSCALE=17&amp;DMWIDTH=300&amp;DMHEIGHT=200&amp;DMX=30&amp;DMY=8&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="After" /></a></div></td>
+            <td><div align="center"><a title="Before" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11162" target="_blank"><img style="padding:10px" src="thumbs/qs-thumb-11162" alt="Before" /></a></div></td>
+          <td><div align="center"><a title="After" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11164" target="_blank"><img style="padding:10px" src="thumbs/qs-thumb-11164" alt="After" /></a></div></td>
 
   </tr>
   <tr>
@@ -625,13 +625,13 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
     <br />
     <table border="0" cellpadding="0" cellspacing="1">
       <tr>
-        <td width="130"><div align="left"><a title="Pennsylvania Hall, Board of Managers" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4127" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=4149&amp;action=2&amp;DMSCALE=10&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=165&amp;DMY=123&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Board of Managers" /></a></div></td>
+        <td width="130"><div align="left"><a title="Pennsylvania Hall, Board of Managers" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4127" target="_blank"><img src="thumbs/qs-thumb-4149" alt="Board of Managers" /></a></div></td>
           <td width="70"></td>
-        <td width="130"><div align="left"><a title="Pennsylvania Hall, Legal &amp; Financial" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4551" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=4551&amp;action=2&amp;DMSCALE=14&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=180&amp;DMY=20&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Legal &amp; Financial" /></a></div></td>
+        <td width="130"><div align="left"><a title="Pennsylvania Hall, Legal &amp; Financial" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4551" target="_blank"><img src="thumbs/qs-thumb-4551" alt="Legal &amp; Financial" /></a></div></td>
           <td width="70"></td>
-        <td width="130"><div align="left"><a title="Pennsylvania Hall Retrospectives" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4594" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=4594&amp;action=2&amp;DMSCALE=15&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=15&amp;DMY=120&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Retrospectives"/></a></div></td>
+        <td width="130"><div align="left"><a title="Pennsylvania Hall Retrospectives" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4594" target="_blank"><img src="thumbs/qs-thumb-4594" alt="Retrospectives"/></a></div></td>
           <td width="70"></td>
-         <td width="130"><div align="left"><a title="Daniel Neall Jr. Papers" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,8795" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=8832&amp;action=2&amp;DMSCALE=20&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=430&amp;DMY=780&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Daniel Neall Jr." /></a></div></td>
+         <td width="130"><div align="left"><a title="Daniel Neall Jr. Papers" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,8795" target="_blank"><img src="thumbs/qs-thumb-8832" alt="Daniel Neall Jr." /></a></div></td>
            <td width="70"></td>
       </tr>
       <tr>

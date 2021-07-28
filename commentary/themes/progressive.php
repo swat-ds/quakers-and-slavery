@@ -56,7 +56,7 @@
  * @access public
  * @author Richard Baskett <rick@baskettcase.com>
  * @category directory structure
- * @copyright Copyright © 2004, Baskettcase Web Development
+ * @copyright Copyright ï¿½ 2004, Baskettcase Web Development
  * @example example.php
  * @link http://www.baskettcase.com/classes/breadcrumb/
  * @package breadcrumb
@@ -553,7 +553,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
           <div id="content"> 
     <div id="pagecontent"> 
   <!-- InstanceBeginEditable name="pagecontent" -->  
-  <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,1069" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=1069&amp;action=2&amp;DMSCALE=5&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=40&amp;DMY=70&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Progressive Friends"/></a>
+  <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,1069" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="thumbs/qs-thumb-1069" alt="Progressive Friends"/></a>
    <h1><a name="essay"></a>Progressive Friends</h1>
     <h3> By Christopher Densmore</h3>
     <p><i>Friends Historical Library, Swarthmore College</i></p>
@@ -580,16 +580,16 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
  
       <table border="0" cellpadding="0" cellspacing="1">
       <tr>
-      <td width="130"><div align="left"><a title="Proceedings of the Pennsylvania Yearly Meeting of Congregational Friends, 1853-1862" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,10009" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=10009&amp;action=2&amp;DMSCALE=15&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=8&amp;DMY=80&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Pennsylvania Congregational Friends"  /></a>  </div></td>
+      <td width="130"><div align="left"><a title="Proceedings of the Pennsylvania Yearly Meeting of Congregational Friends, 1853-1862" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,10009" target="_blank"><img src="thumbs/qs-thumb-10009" border="0" alt="Pennsylvania Congregational Friends"  /></a>  </div></td>
        <td width="70"></td>
       
       
-      <td width="130"><div align="left"><a title="Kennett Quarterly Meeting of Progressive Friends" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4643" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=4643&amp;action=2&amp;DMSCALE=15&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=30&amp;DMY=1&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Kennett Quarlterly Meeting"  /></a>  </div></td> 
+      <td width="130"><div align="left"><a title="Kennett Quarterly Meeting of Progressive Friends" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4643" target="_blank"><img src="thumbs/qs-thumb-4643" border="0" alt="Kennett Quarlterly Meeting"  /></a>  </div></td> 
        <td width="70"></td>
-      <td width="130"><div align="left"><a title="Proceedings of the Pennsylvania Yearly Meeting of Progressive Friends, 1853-1862" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,1069" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=1069&amp;action=2&amp;DMSCALE=6&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=58&amp;DMY=100&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Pennsylvania Progressive Friends"  /></a>  </div></td>
+      <td width="130"><div align="left"><a title="Proceedings of the Pennsylvania Yearly Meeting of Progressive Friends, 1853-1862" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,1069" target="_blank"><img src="thumbs/qs-thumb-1069" border="0" alt="Pennsylvania Progressive Friends"  /></a>  </div></td>
        <td width="70"></td>
       
-       <td width="130"><div align="left"><a title="Proceedings of the Pennsylvania Yearly Meeting of Progressive Friends, 1853-1873" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,5845" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=5845&amp;action=2&amp;DMSCALE=22&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=82&amp;DMY=250&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Pennsylvania Progressive Friends"  /></a>  </div></td>
+       <td width="130"><div align="left"><a title="Proceedings of the Pennsylvania Yearly Meeting of Progressive Friends, 1853-1873" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,5845" target="_blank"><img src="thumbs/qs-thumb-5845" border="0" alt="Pennsylvania Progressive Friends"  /></a>  </div></td>
       
       
    

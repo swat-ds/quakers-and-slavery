@@ -56,7 +56,7 @@
  * @access public
  * @author Richard Baskett <rick@baskettcase.com>
  * @category directory structure
- * @copyright Copyright © 2004, Baskettcase Web Development
+ * @copyright Copyright ï¿½ 2004, Baskettcase Web Development
  * @example example.php
  * @link http://www.baskettcase.com/classes/breadcrumb/
  * @package breadcrumb
@@ -561,7 +561,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
   <!-- InstanceBeginEditable name="pagecontent" -->  
   
    
-   <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11143" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11143&amp;action=2&amp;DMSCALE=27&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=170&amp;DMY=99&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Clarkson"/></a>
+   <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11143" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="thumbs/qs-thumb-11143" alt="Clarkson"/></a>
     <h1><a name="essay"></a>Thomas Clarkson</h1>
 
     <p></p>
@@ -583,7 +583,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
 		  <p align="right"><i>Image of the Middle Passage</i></p>
 		  <div align="right" ><i>Thomas Clarkson travelled to ports throughout the United Kingdom and gathered evidence to help raise awareness and build a case against the slave trade. Clarkson made this drawing of a slave ship's hold, which depicts how slaves were packed tightly for the Middle Passage. William Wilberforce presented this and other artifacts from Clarkson's travels to Parliament to draw attention to the inhumanities of the slave trade. </i>
 		    </div></td>
-          <td><a title="History of the Rise and Progress..." class="body_con" href=" http://triptych.brynmawr.edu/u?/HC_QuakSlav,1502" target="_blank"><img style="padding:10px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=1502&amp;action=2&amp;DMSCALE=15&amp;DMWIDTH=300&amp;DMHEIGHT=200&amp;DMX=8&amp;DMY=105&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="The History of the Rise and Progress..."/></a></td>
+          <td><a title="History of the Rise and Progress..." class="body_con" href=" http://triptych.brynmawr.edu/u?/HC_QuakSlav,1502" target="_blank"><img style="padding:10px" src="thumbs/qs-thumb-1502" border="0" alt="The History of the Rise and Progress..."/></a></td>
   </tr>
       </table>    
   <br />
@@ -630,16 +630,16 @@ Clarkson began questioning the inhumanities of slavery and the slave trade as he
     <br />
     <table border="0" cellpadding="0" cellspacing="1">
       <tr>
-   <td width="130"><div align="left"><a title="Clarkson &amp; Wilberforce" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11144" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11144&amp;action=2&amp;DMSCALE=12&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=30&amp;DMY=25&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Thomas Clarkson, 1760-1846"  /></a>  </div></td>
+   <td width="130"><div align="left"><a title="Clarkson &amp; Wilberforce" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11144" target="_blank"><img src="thumbs/qs-thumb-11144" border="0" alt="Thomas Clarkson, 1760-1846"  /></a>  </div></td>
     <td width="70"></td>
    
-   <td width="130"><div align="left"><a title="An essay on the slavery and commerce of the human species, particularly the African" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,636" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=636&amp;action=2&amp;DMSCALE=14&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=10&amp;DMY=25&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="An Essay..."  /></a>  </div></td>
+   <td width="130"><div align="left"><a title="An essay on the slavery and commerce of the human species, particularly the African" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,636" target="_blank"><img src="thumbs/qs-thumb-636" border="0" alt="An Essay..."  /></a>  </div></td>
     <td width="70"></td>
         
         
-        <td width="130"><div align="left"><a title="The History of the Rise, Progress, and Accomplishment of the Abolition of the African Slave-Trade by the British Parliament" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,1502" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=1502&amp;action=2&amp;DMSCALE=32&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=13&amp;DMY=255&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="The History of the Rise and Progress..."  /></a></div></td>
+        <td width="130"><div align="left"><a title="The History of the Rise, Progress, and Accomplishment of the Abolition of the African Slave-Trade by the British Parliament" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,1502" target="_blank"><img src="thumbs/qs-thumb-1502" border="0" alt="The History of the Rise and Progress..."  /></a></div></td>
          <td width="70"></td>
-            <td width="130"><div align="left"><a title="Letter to Thomas Wilcox from Thomas Clarkson" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,8632" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=8635&amp;action=2&amp;DMSCALE=17&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=193&amp;DMY=5&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Letter"  /></a></div></td>
+            <td width="130"><div align="left"><a title="Letter to Thomas Wilcox from Thomas Clarkson" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,8632" target="_blank"><img src="thumbs/qs-thumb-8635" border="0" alt="Letter"  /></a></div></td>
            
                 
    

@@ -56,7 +56,7 @@
  * @access public
  * @author Richard Baskett <rick@baskettcase.com>
  * @category directory structure
- * @copyright Copyright © 2004, Baskettcase Web Development
+ * @copyright Copyright ï¿½ 2004, Baskettcase Web Development
  * @example example.php
  * @link http://www.baskettcase.com/classes/breadcrumb/
  * @package breadcrumb
@@ -566,7 +566,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
           <div id="content"> 
     <div id="pagecontent"> 
   <!-- InstanceBeginEditable name="pagecontent" -->
-    <a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11712" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11712&amp;action=2&amp;DMSCALE=4&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=60&amp;DMY=30&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Underground Railroad" title="Underground Railroad"/></a>
+    <a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11712" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="thumbs/qs-thumb-11712" alt="Underground Railroad" title="Underground Railroad"/></a>
           <h1>Quakers and the Underground Railroad: Myths and Realities </h1>
           <h3>By Christopher Densmore </h3>
           <p><i>Curator, Friends Historical Library of Swarthmore College </i></p>
@@ -644,16 +644,16 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
    <br />
     <table border="0" cellpadding="0" cellspacing="1">
       <tr>
-        <td width="130"><div align="left"><a title="Henry Box Brown" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11158" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11158&amp;action=2&amp;DMSCALE=7.5&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=25&amp;DMY=10&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Henry Box Brown" title="Henry Box Brown" /></a></div></td>
+        <td width="130"><div align="left"><a title="Henry Box Brown" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11158" target="_blank"><img src="thumbs/qs-thumb-11158" alt="Henry Box Brown" title="Henry Box Brown" /></a></div></td>
          <td width="70"></td>
 
-        <td width="130"><div align="left"><a title="Thomas Garrett Trial Notes, 1848" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,8053" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=8054&amp;action=2&amp;DMSCALE=9&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=0&amp;DMY=0&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt="Trial Notes, 1848" title="Trial Notes, 1848" /></a></div></td>
+        <td width="130"><div align="left"><a title="Thomas Garrett Trial Notes, 1848" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,8053" target="_blank"><img src="thumbs/qs-thumb-8054" alt="Trial Notes, 1848" title="Trial Notes, 1848" /></a></div></td>
          <td width="70"></td>
 
-        <td width="130"><div align="left"><a title="Elijah F. Pennypacker Correspondence" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4087" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=4087&amp;action=2&amp;DMSCALE=20&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=0&amp;DMY=390&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=270" alt="Elijah F. Pennypacker" title="Elijah F. Pennypacker"/></a></div></td>
+        <td width="130"><div align="left"><a title="Elijah F. Pennypacker Correspondence" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,4087" target="_blank"><img src="thumbs/qs-thumb-4087" alt="Elijah F. Pennypacker" title="Elijah F. Pennypacker"/></a></div></td>
          <td width="70"></td>
 
-        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,7946" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=7946&amp;action=2&amp;DMSCALE=12&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=110&amp;DMY=0&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" title="Isaac T. Hopper Papers" alt="Isaac T. Hopper Papers" /></a></div></td>
+        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,7946" target="_blank"><img src="thumbs/qs-thumb-7946" title="Isaac T. Hopper Papers" alt="Isaac T. Hopper Papers" /></a></div></td>
       </tr>
       <tr>
          <td width="130" valign="top"><div align="left">Resurrection of Henry &quot;Box&quot; Brown</div></td>

@@ -56,7 +56,7 @@
  * @access public
  * @author Richard Baskett <rick@baskettcase.com>
  * @category directory structure
- * @copyright Copyright © 2004, Baskettcase Web Development
+ * @copyright Copyright ï¿½ 2004, Baskettcase Web Development
  * @example example.php
  * @link http://www.baskettcase.com/classes/breadcrumb/
  * @package breadcrumb
@@ -562,7 +562,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
   <!-- InstanceBeginEditable name="pagecontent" -->  
   
    
-   <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,12040" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=12040&amp;action=2&amp;DMSCALE=23&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=350&amp;DMY=175&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt="John Woolman"/></a>
+   <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,12040" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="thumbs/qs-thumb-12040" alt="John Woolman"/></a>
    <h1><a name="essay"></a>John Woolman</h1>
 
     <p></p>
@@ -613,14 +613,14 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
      
     <table border="0" cellpadding="0" cellspacing="1">
       <tr>
-          <td width="130"><div align="left"><a title="Some Considerations on the Keeping of Negroes" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,497" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=497&amp;action=2&amp;DMSCALE=14&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=7&amp;DMY=2&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Some Considerations..." title="Page 1" /></a>  </div></td>
+          <td width="130"><div align="left"><a title="Some Considerations on the Keeping of Negroes" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,497" target="_blank"><img src="thumbs/qs-thumb-497" border="0" alt="Some Considerations..." title="Page 1" /></a>  </div></td>
              <td width="70"></td>
     
-    <td width="130"><div align="left"><a title="Philadelphia Yearly Meeting Epistle of Caution and Advice, 1754" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,1544" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=1544&amp;action=2&amp;DMSCALE=25&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=65&amp;DMY=9&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Epistle" title="Page 1" /></a>  </div></td>
+    <td width="130"><div align="left"><a title="Philadelphia Yearly Meeting Epistle of Caution and Advice, 1754" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,1544" target="_blank"><img src="thumbs/qs-thumb-1544" border="0" alt="Epistle" title="Page 1" /></a>  </div></td>
        <td width="70"></td>
-     <td width="130"><div align="left"><a title="Woolman Journal" class="body_con" href=" http://triptych.brynmawr.edu/u?/HC_QuakSlav,12053" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=12053&amp;action=2&amp;DMSCALE=18&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=300&amp;DMY=90&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Woolman Journal" title="Page 1" /></a>  </div></td>
+     <td width="130"><div align="left"><a title="Woolman Journal" class="body_con" href=" http://triptych.brynmawr.edu/u?/HC_QuakSlav,12053" target="_blank"><img src="thumbs/qs-thumb-12053" border="0" alt="Woolman Journal" title="Page 1" /></a>  </div></td>
    <td width="70"></td>
-      <td width="130"><div align="left"><a title="John Woolman" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,12040" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=12040&amp;action=2&amp;DMSCALE=23&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=350&amp;DMY=175&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" border="0" alt="Woolman" title="Page 1" />
+      <td width="130"><div align="left"><a title="John Woolman" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,12040" target="_blank"><img src="thumbs/qs-thumb-12040" border="0" alt="Woolman" title="Page 1" />
 </a>  </div></td>
     
     

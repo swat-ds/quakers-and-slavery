@@ -56,7 +56,7 @@
  * @access public
  * @author Richard Baskett <rick@baskettcase.com>
  * @category directory structure
- * @copyright Copyright © 2004, Baskettcase Web Development
+ * @copyright Copyright ï¿½ 2004, Baskettcase Web Development
  * @example example.php
  * @link http://www.baskettcase.com/classes/breadcrumb/
  * @package breadcrumb
@@ -560,7 +560,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
           <div id="content"> 
     <div id="pagecontent"> 
   <!-- InstanceBeginEditable name="pagecontent" -->  
-  <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11157" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11157&amp;action=2&amp;DMSCALE=11&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=30&amp;DMY=100&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt=""/></a>
+  <a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11157" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="thumbs/qs-thumb-11157" alt=""/></a>
    <h1><a name="essay"></a>18th Century Abolition</h1>
     <h3> By Jonathan Sassi</h3>
     <p><i>City University of New York</i></p>
@@ -591,7 +591,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
    
     <table border="0" cellpadding="0" cellspacing="1">
       <tr>
-         <td width="130"><div align="left"><a title="Traite des Negres" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11157" target="_blank"><img class="floatleft" align="left" height="130" width="130" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11157&amp;action=2&amp;DMSCALE=11&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=30&amp;DMY=100&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt=""/></a>  </div></td>
+         <td width="130"><div align="left"><a title="Traite des Negres" class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11157" target="_blank"><img class="floatleft" align="left" height="130" width="130" src="thumbs/qs-thumb-11157" alt=""/></a>  </div></td>
            <td width="70"></td>
 
        

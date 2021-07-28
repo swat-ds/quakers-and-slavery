@@ -56,7 +56,7 @@
  * @access public
  * @author Richard Baskett <rick@baskettcase.com>
  * @category directory structure
- * @copyright Copyright © 2004, Baskettcase Web Development
+ * @copyright Copyright ï¿½ 2004, Baskettcase Web Development
  * @example example.php
  * @link http://www.baskettcase.com/classes/breadcrumb/
  * @package breadcrumb
@@ -558,7 +558,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
           <div id="content"> 
     <div id="pagecontent"> 
   <!-- InstanceBeginEditable name="pagecontent" -->
-    <a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,8832" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11149&amp;action=2&amp;DMSCALE=7&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=15&amp;DMY=15&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" alt="George Fox" title="George Fox" /></a>
+    <a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,8832" target="_blank"><img class="floatleft" align="left" height="130" width="130" style="padding: 5px 15px 10px 0px" src="thumbs/qs-thumb-11149" alt="George Fox" title="George Fox" /></a>
           <h1>George Fox's Ambiguous Anti-slavery Legacy<a href="#note1">*</a> <a href="#note2">**</a></h1>
           <h3>By J. William Frost </h3>
           <p><i>Emeritus Howard M. and Charles F. Jenkins Professor of Quaker History and Research, Swarthmore College.</i></p>
@@ -735,13 +735,13 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
    <br />
     <table border="0" cellpadding="0" cellspacing="1">
       <tr>
-        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,574" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=574&amp;action=2&amp;DMSCALE=8&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=8&amp;DMY=18&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" title="Gospel Family-Order" alt="Gospel Family-Order" /></a></div></td>
+        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,574" target="_blank"><img src="thumbs/qs-thumb-574" title="Gospel Family-Order" alt="Gospel Family-Order" /></a></div></td>
          <td width="70"></td>
-        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,2600" target="_blank"> <img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=2489&amp;action=2&amp;DMSCALE=10&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=15&amp;DMY=65&amp;DMTEXT=&amp;REC=1&amp;DMTHUMB=1&amp;DMROTATE=0" title="Clarkson on Quakers" alt="Clarkson on Quakers" /> </a></div></td>
+        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,2600" target="_blank"> <img src="thumbs/qs-thumb-2489" title="Clarkson on Quakers" alt="Clarkson on Quakers" /> </a></div></td>
          <td width="70"></td>
-        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11267" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=11267&amp;action=2&amp;DMSCALE=50&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=0&amp;DMY=680&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" title="Pleasants on Fox" alt="Pleasants on Fox" /></a></div></td>
+        <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11267" target="_blank"><img src="thumbs/qs-thumb-11267" title="Pleasants on Fox" alt="Pleasants on Fox" /></a></div></td>
          <td width="70"></td>
-          <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,8406" target="_blank"><img src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&amp;CISOPTR=8406&amp;action=2&amp;DMSCALE=25&amp;DMWIDTH=130&amp;DMHEIGHT=130&amp;DMX=300&amp;DMY=680&amp;DMTEXT=&amp;REC=2&amp;DMTHUMB=1&amp;DMROTATE=0" title="Samuel M. Janney Correspondence" alt="Samuel M. Janney Correspondence" /></a></div></td>
+          <td width="130"><div align="left"><a class="body_con" href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,8406" target="_blank"><img src="thumbs/qs-thumb-8406" title="Samuel M. Janney Correspondence" alt="Samuel M. Janney Correspondence" /></a></div></td>
     </tr>
       <tr>
         <td width="130" valign="top"><div align="left">Fox's 'Gospel Family-Order'</div></td>

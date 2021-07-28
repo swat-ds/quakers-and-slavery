@@ -51,7 +51,7 @@
  * @access public
  * @author Richard Baskett <rick@baskettcase.com>
  * @category directory structure
- * @copyright Copyright © 2004, Baskettcase Web Development
+ * @copyright Copyright ï¿½ 2004, Baskettcase Web Development
  * @example example.php
  * @link http://www.baskettcase.com/classes/breadcrumb/
  * @package breadcrumb
@@ -552,7 +552,7 @@ echo "<div id=\"breadcrumb\">".$breadcrumb->show_breadcrumb()."</div>";
 
 
 <h3>Technical Direction</h3> 
-<a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11158" target="_blank"><img class="floatright" align="right" height="300" width="400" style="padding: 5px 15px 10px 0px" src="http://triptych.brynmawr.edu/utils/ajaxhelper/?CISOROOT=/HC_QuakSlav&CISOPTR=11158action=2&action=2&DMSCALE=10&DMWIDTH=300&DMHEIGHT=400&DMX=3&DMY=3&DMTEXT=&REC=2&DMTHUMB=1&DMROTATE=0" alt="Henry Box Brown"/></a>
+<a href="http://triptych.brynmawr.edu/u?/HC_QuakSlav,11158" target="_blank"><img class="floatright" align="right" height="300" width="400" style="padding: 5px 15px 10px 0px" src="thumbs/qs-thumb-11158.jpg" alt="Henry Box Brown"/></a>
 
 <blockquote>
 <p>David Conners, <i>Digital Collections Librarian at Haverford College</i></p>
